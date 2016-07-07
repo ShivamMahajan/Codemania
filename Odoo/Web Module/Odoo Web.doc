@@ -1,0 +1,333 @@
+{\rtf1\ansi\ansicpg1252\deff0\uc1
+{\fonttbl
+{\f0\fnil\fcharset0\fprq0\fttruetype Liberation Sans;}
+{\f1\fnil\fcharset0\fprq0\fttruetype Liberation Serif;}
+{\f2\fnil\fcharset0\fprq0\fttruetype Liberation Mono;}
+{\f3\fnil\fcharset0\fprq0\fttruetype Times New Roman;}
+{\f4\fnil\fcharset0\fprq0\fttruetype Courier New;}}
+{\colortbl
+\red0\green0\blue0;
+\red255\green255\blue255;
+\red255\green255\blue255;
+\red128\green0\blue0;
+\red255\green0\blue0;}
+{\stylesheet
+{\s6\tx1584\sbasedon37\snext36 Chapter Heading;}
+{\s48\sl287\slmult1\sa140\f1\fs24\lang0\sbasedon36\snext48 Text Body;}
+{\s46\fi-431\li720 Star List;}
+{\s21\keepn\sb240\sa120\f0\fs28\lang0\sbasedon36\snext48 Heading;}
+{\s34\fi-431\li720\sbasedon40 Lower Case List;}
+{\s2\li1440\ri1440\sa120\sbasedon36 Block Text;}
+{\s51\fi-431\li720 Triangle List;}
+{\s22\keepn\sb240\sa120\f0\fs36\b\lang0\sbasedon21\snext48 Heading 1;}
+{\s23\keepn\sb200\sa120\f0\fs32\b\lang0\sbasedon21\snext48 Heading 2;}
+{\s4\fi-431\li720 Bullet List;}
+{\s25\keepn\sb120\sa120\f0\fs26\i\b\lang0\sbasedon21\snext48 Heading 4;}
+{\s30\fi-431\li720 Heart List;}
+{\s1\fi-431\li720 Arrowhead List;}
+{\s28\keepn\sb60\sa60\f0\fs22\b\lang0\sbasedon21\snext48 Heading 7;}
+{\s29\keepn\sb60\sa60\f0\fs22\i\b\lang0\sbasedon21\snext48 Heading 8;}
+{\s45\fi-431\li720 Square List;}
+{\s47\keepn\qc\sb60\sa120\f0\fs36\lang0\sbasedon21\snext48 Subtitle;}
+{\s11\qc\sb240\sa120\f0\fs32\b\sbasedon36\snext36 Contents Header;}
+{\s41\f4\sbasedon36 Plain Text;}
+{\s19\fs20\sbasedon36 Footnote Text;}
+{\s24\keepn\sb140\sa120\f0\fs28\b\lang0\sbasedon21\snext48 Heading 3;}
+{\s40\fi-431\li720 Numbered List;}
+{\s13\fi-431\li720 Diamond List;}
+{\s20\fi-431\li720 Hand List;}
+{\s27\keepn\sb60\sa60\f0\fs24\i\b\lang0\sbasedon21\snext48 Heading 6;}
+{\s52\fi-431\li720\sbasedon40 Upper Case List;}
+{\s43\sa280\f1\fs24\lang0\sbasedon36\snext43 Quotations;}
+{\s33\sl287\slmult1\sa140\f1\fs24\lang0\sbasedon48\snext33 List;}
+{\s3\fi-431\li720 Box List;}
+{\s53\fi-431\li720\sbasedon40 Upper Roman List;}
+{\s36\f1\fs24\lang0\snext36 Normal;}
+{\s5\sb120\sa120\f1\fs24\i\lang0\sbasedon36\snext5 Caption;}
+{\s50\keepn\qc\sb240\sa120\f0\fs56\b\lang0\sbasedon21\snext48 Title;}
+{\s26\keepn\sb120\sa60\f0\fs24\b\lang0\sbasedon21\snext48 Heading 5;}
+{\s32\f1\fs24\lang0\sbasedon36\snext32 Index;}
+{\s44\tx1584\sbasedon37\snext36 Section Heading;}
+{\s42\f2\fs20\lang0\sbasedon36\snext42 Preformatted Text;}
+{\s31\fi-431\li720 Implies List;}
+{\s49\fi-431\li720 Tick List;}
+{\s14\fi-288\li288\sbasedon36 Endnote;}
+{\s12\fi-431\li720 Dashed List;}
+{\s35\fi-431\li720\sbasedon36 Lower Roman List;}
+{\*\cs18\fs20\super Footnote Reference;}
+{\s16\sbasedon36 Endnote Text;}
+{\*\cs15\fs20\super Endnote Reference;}
+{\s37\tx431\sbasedon22\snext36 Numbered Heading 1;}
+{\s38\tx431\sbasedon23\snext36 Numbered Heading 2;}
+{\s39\tx431\sbasedon24\snext36 Numbered Heading 3;}
+{\s17\fi-288\li288\fs20\sbasedon36 Footnote;}
+{\s7\fi-431\li720\sbasedon36\snext36 Contents 1;}
+{\s8\fi-431\li1440\sbasedon36\snext36 Contents 2;}
+{\s9\fi-431\li2160\sbasedon36\snext36 Contents 3;}
+{\s10\fi-431\li2880\sbasedon36\snext36 Contents 4;}}
+{\*\listtable
+{\list\listtemplateid1004\listsimple{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}\listid1000}
+{\list\listtemplateid1005\listsimple{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}\listid1001}}
+{\*\listoverridetable
+{\listoverride\listoverridecount0\listid1000\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\ls1}
+{\listoverride\listoverridecount0\listid1001\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\ls2}}
+
+\kerning0\cf0\ftnbj\fet2\ftnstart1\ftnnar\aftnnar\ftnstart1\aftnstart1\aenddoc\revprop3{\*\rdf}{\info\uc1}\deftab720\viewkind1\paperw11905\paperh16837\margl1440\margr1440\widowctrl
+\sectd\sbknone\colsx360\footery413\margtsxn1133\margbsxn1133\marglsxn1133\margrsxn1133\pgncont\ltrsect
+\pard\plain\ltrpar\ql\sb240\sa120\s22\itap0\keepn\tx2951{\*\bkmkstart main_title}{\*\bkmkend main_title}{\s22\cf3\f0\fs44\b\ul\lang0{\*\listtag0}\abinodiroverride\ltrch Building a Website(academy)}{\s22\f0\fs36\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0\keepn\tx2951{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch -> To build web module you have to create a module at addons.\line \line --> You need to first create\line }{\s48\f1\fs24\b\lang0{\*\listtag0} __init__.py}{\s48\f1\fs24\lang0{\*\listtag0} and\line }{\s48\f1\fs24\b\lang0{\*\listtag0}__openerp__.py }{\s48\f1\fs24\lang0{\*\listtag0}file similar as server addons.\line Where}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s36\sl240\slmult1\itap0{\s36\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch __openerp__.py have more parameters likes\line \{\line \line \uc1\u8220\'93name\uc1\u8221\'94: \uc1\u8220\'93lib_resource\uc1\u8221\'94,\line \uc1\u8220\'93category\uc1\u8221\'94 : \uc1\u8220\'93Hidden\uc1\u8221\'94,\line \uc1\u8220\'93description\uc1\u8221\'94:\uc1\u8217\'92Openerp web Library\uc1\u8217\'92,\line \uc1\u8220\'93version\uc1\u8221\'94: \uc1\u8220\'932.0\uc0\u8243 ,\line \line \uc1\u8220\'93}{\s36\f1\fs24\b\lang0{\*\listtag0}depends\uc1\u8221\'94: ['web','project'],}{\s36\f1\fs24\lang0{\*\listtag0}\line \uc1\u8216\'91}{\s36\f1\fs24\b\lang0{\*\listtag0}qweb\uc1\u8217\'92 : ['static/src/xml/lib.xml'],}{\s36\f1\fs24\lang0{\*\listtag0}\line }{\s36\f1\fs24\b\lang0{\*\listtag0}\uc1\u8220\'93css\uc1\u8221\'94: [],}{\s36\f1\fs24\lang0{\*\listtag0}\line \uc1\u8220\'93}{\s36\f1\fs24\b\lang0{\*\listtag0}js\uc1\u8221\'94: ['static/src/js/lib.js'],}{\s36\f1\fs24\lang0{\*\listtag0}\line \uc1\u8220\'93auto_install\uc1\u8221\'94: True\line \}\line \line --> As you see in above code. how to }{\s36\f1\fs24\b\lang0{\*\listtag0}add}{\s36\f1\fs24\lang0{\*\listtag0} your }{\s36\f1\fs24\b\lang0{\*\listtag0}css and js and qweb}{\s36\f1\fs24\lang0{\*\listtag0} templates.\line \line Inside your module need to manage }{\s36\f1\fs24\b\lang0{\*\listtag0}folder structure.}{\s36\f1\fs24\lang0{\*\listtag0}\line \line }{\s36\f1\fs24\b\lang0{\*\listtag0}lib_resource/static/src/xml}{\s36\f1\fs24\lang0{\*\listtag0} ->Files related to }{\s36\f1\fs24\b\lang0{\*\listtag0}qweb templates}{\s36\f1\fs24\lang0{\*\listtag0}\line \line }{\s36\f1\fs24\b\lang0{\*\listtag0}lib_resourcer/static/src/js}{\s36\f1\fs24\lang0{\*\listtag0}  ->Files related to }{\s36\f1\fs24\b\lang0{\*\listtag0}javascript}{\s36\f1\fs24\lang0{\*\listtag0} which you create or code.\line \line  }{\s36\f1\fs24\b\lang0{\*\listtag0}lib_resource/static/lib}{\s36\f1\fs24\lang0{\*\listtag0} ->Put your }{\s36\f1\fs24\b\lang0{\*\listtag0}javascript related libs and js plugins}{\s36\f1\fs24\lang0{\*\listtag0}\uc1\u8230\'85.\line \line }{\s36\f1\fs24\b\lang0{\*\listtag0}__openerp__.py\line __init__.py\line }{\s36\f1\fs24\lang0{\*\listtag0}\line ---> Create\line }{\s36\f1\fs24\b\lang0{\*\listtag0}-->lib.js}{\s36\f1\fs24\lang0{\*\listtag0} file at }{\s36\f1\fs24\b\lang0{\*\listtag0}lib_resource/static/src/js}{\s36\f1\fs24\lang0{\*\listtag0}.\line }{\s36\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s36\sl240\slmult1\itap0{\s36\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch  }{\s36\f1\fs24\b\lang0{\*\listtag0}Note :}{\s36\f1\fs24\lang0{\*\listtag0} Now most important rule to remember. inside lib.js you need to create openerp new namespace }{\s36\f1\fs24\b\lang0{\*\listtag0}lib_resource.}{\s36\f1\fs24\lang0{\*\listtag0}\line \line }{\s36\f1\fs24\b\lang0{\*\listtag0}openerp.lib_resource }{\s36\f1\fs24\lang0{\*\listtag0}= function(openerp) \line \{\line }{\s36\f1\fs24\b\lang0{\*\listtag0}var myTemplate =\uc1\u8217\'92link\uc1\u8217\'92,}{\s36\f1\fs24\lang0{\*\listtag0} // template for qweb rendering we can manage it as per our requirement.\line }{\s36\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s36\sl240\slmult1\itap0{\s36\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Here you can create new function or global variables.\line Also if you want to modify or inherit any existing class or libs  here you can manage that.\line Here you can inherit any existing class and modify its operation and also able to create new classes\uc1\u8230\'85\line  \}\line \line --> }{\s36\f1\fs24\b\lang0{\*\listtag0}lib.xml }{\s36\f1\fs24\lang0{\*\listtag0} at  }{\s36\f1\fs24\b\lang0{\*\listtag0}lib_resource/static/src/xml}{\s36\f1\fs24\lang0{\*\listtag0}\line \line This file holds information regarding }{\s36\f1\fs24\b\lang0{\*\listtag0}qweb template\uc1\u8217\'92s.}{\s36\f1\fs24\lang0{\*\listtag0}\line }{\s36\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s36\sl240\slmult1\itap0{\s36\f1\fs24\b\lang0{\*\listtag0}\abinodiroverride\ltrch What is qweb???}{\s36\f1\fs24\lang0{\*\listtag0}\line when we try to load the page then templates render on qweb.js and qweb2.js\line these 2 files are containing all the information  used for loading the templates for different views}{\s36\f1\fs24\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0\keepn\tx2951{\s48\f1\fs24\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0\keepn\tx2951{\s48\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch Playing with Controllers}{\s48\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s36\sl240\slmult1\itap0{\s36\f1\fs24\b\lang0{\*\listtag0}\abinodiroverride\ltrch auth: user, public, none.}{\s36\f1\fs24\lang0{\*\listtag0} When setting auth to user it means that the user must be logged in to access the controller. This is the default value, so when we don\uc1\u8217\'92t specify the auth parameter user authentication is used. If we set it to public it means that even not logged in users can access the controller. If the user is not logged in then he will be assigned to the Public user group. \uc1\u8216\'91none\uc1\u8217\'92 which just means that if the user is not logged in he wont be assigned to any group and the controller can be accessed by anyone, same as for public.}{\*\bkmkstart templates-title}{\*\bkmkend templates-title}{\s36\f1\fs24\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa139\s48\sl286\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s36\sl240\slmult1\itap0{\s36\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch The important thing to note here is that front-end modules should depend on the website module.}{\s36\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0\keepn\tx2951{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0\keepn\tx2951{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0\keepn\tx2951{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sb200\sa120\s23\itap0\keepn\tx3095{\s23\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch To the browser}{\s23\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\field{\*\fldinst {\f1\fs24\lang0{\*\listtag0} HYPERLINK "https://www.odoo.com/documentation/9.0/reference/http.html"}}{\*\fldrslt{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Controllers}}}{\s48\f1\fs24\lang0{\*\listtag0} interpret browser requests and send data back.}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Add a simple controller and ensure it is imported by }{\s36\f2\fs20\lang0{\*\listtag0}__init__.py}{\s48\f1\fs24\lang0{\*\listtag0} (so Odoo can find it):}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch (}{\s36\f3\fs20\i\lang0{\*\listtag0}academy/controllers.py)}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\cf4\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch from openerp import http}{\s48\cf4\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\cf4\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch class Academy(http.Controller):}{\s48\cf4\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\cf4\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch     @http.route('/academy/academy/', auth='public')}{\s48\cf4\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\cf4\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch     def index(self, **kw):}{\s48\cf4\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\cf4\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch         return "Hello, world"}{\s48\cf4\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch open a page to}{\s48\cf4\f1\fs24\lang0{\*\listtag0} }{\field{\*\fldinst {\f1\fs24\lang0{\*\listtag0} HYPERLINK "http://localhost:8069/academy/academy/"}}{\*\fldrslt{\s48\f1\fs24\lang0{\*\listtag0}http://localhost:8069/academy/academy/}}}{\s48\cf4\f1\fs24\lang0{\*\listtag0}, }{\s48\f1\fs24\lang0{\*\listtag0}you should see your "page" appear:}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sb200\sa120\s23\itap0\keepn\tx3095{\s23\cf4\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch Templates}{\s23\cf4\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Generating HTML in Python isn't very pleasant.}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch The usual solution is }{\field{\*\fldinst {\f1\fs24\lang0{\*\listtag0} HYPERLINK "http://en.wikipedia.org/wiki/Web_template"}}{\*\fldrslt{\s48\f1\fs24\lang0{\*\listtag0}templates}}}{\s48\f1\fs24\lang0{\*\listtag0},}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Odoo allows any Python templating system, but provides its own }{\field{\*\fldinst {\f1\fs24\lang0{\*\listtag0} HYPERLINK "https://www.odoo.com/documentation/9.0/reference/qweb.html"}}{\*\fldrslt{\s48\f1\fs24\lang0{\*\listtag0}QWeb}}}{\s48\f1\fs24\lang0{\*\listtag0} templating system which integrates with other features.}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Create a template}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch \{}{\s36\f3\fs20\i\lang0{\*\listtag0}academy/controllers.py}{\s48\f1\fs24\lang0{\*\listtag0}\}}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch class Academy(http.Controller):}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch     @http.route('/academy/academy/', auth='public')}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch     def index(self, **kw):}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch         return http.request.render('academy.index', \{}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch             'teachers': ["Diana Padilla", "Jody Caroll", "Lester Vaughn"],}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch         \})}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s36\itap0{\s36\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s36\itap0{\s36\f3\fs20\i\lang0{\*\listtag0}\abinodiroverride\ltrch \{academy/templates.xml\}}{\s36\f3\fs20\i\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch <openerp>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch     <data>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch         <template id="index">}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch             <title>Academy</title>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch             <t t-foreach="teachers" t-as="teacher">}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch               <p><t t-esc="teacher"/></p>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch             </t>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch         </template>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sb200\sa120\s23\itap0\keepn\tx3095{\s23\cf4\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch Storing data in Odoo}{\s23\cf4\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\field{\*\fldinst {\f1\fs24\lang0{\*\listtag0} HYPERLINK "https://www.odoo.com/documentation/9.0/reference/orm.html"}}{\*\fldrslt{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Odoo models}}}{\s48\cf4\f1\fs24\lang0{\*\listtag0} map to database tables.}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch In the previous section we just displayed a list of string entered statically in the Python code. This doesn't allow modifications or persistent storage so we'll now move our data to the database.}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sb140\sa120\s24\itap0\keepn\tx3240{\s24\cf4\f0\fs28\b\lang0{\*\listtag0}\abinodiroverride\ltrch Defining the data model}{\s24\cf4\f0\fs28\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Define a teacher model, and ensure it is imported from }{\s36\f2\fs20\lang0{\*\listtag0}__init__.py}{\s48\f1\fs24\lang0{\*\listtag0} so it is correctly loaded:}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s36\f3\fs20\i\lang0{\*\listtag0}\abinodiroverride\ltrch academy/models.py}{\s48\f3\fs20\i\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch from openerp import models, fields, api}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch class Teachers(models.Model):}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch     _name = '}{\s42\f2\fs20\b\lang0{\*\listtag0}academy.teachers}{\s42\f2\fs20\lang0{\*\listtag0}'}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch     }{\s42\f2\fs20\b\lang0{\*\listtag0}name}{\s42\f2\fs20\lang0{\*\listtag0} = fields.Char()}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sb140\sa120\s24\itap0\keepn\tx3240{\s24\cf4\f0\fs28\b\lang0{\*\listtag0}\abinodiroverride\ltrch Demonstration data}{\s24\cf4\f0\fs28\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch The second step is to add some demonstration data to the system so it's possible to test it easily. This is done by adding a }{\s36\f2\fs20\lang0{\*\listtag0}demo}{\s48\f1\fs24\lang0{\*\listtag0} }{\field{\*\fldinst {\f1\fs24\lang0{\*\listtag0} HYPERLINK "https://www.odoo.com/documentation/9.0/reference/data.html"}}{\*\fldrslt{\s48\f1\fs24\lang0{\*\listtag0}data file}}}{\s48\f1\fs24\lang0{\*\listtag0}, which must be linked from the manifest:}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s36\f3\fs20\i\lang0{\*\listtag0}\abinodiroverride\ltrch academy/demo.xml}{\s48\f3\fs20\i\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch <openerp>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch     <data>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch         <record id="padilla" model="}{\s42\f2\fs20\b\lang0{\*\listtag0}academy.teachers}{\s42\f2\fs20\lang0{\*\listtag0}">}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch             <field name="}{\s42\f2\fs20\b\lang0{\*\listtag0}name}{\s42\f2\fs20\lang0{\*\listtag0}">Diana Padilla</field>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch         </record>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch         <record id="carroll" model="}{\s42\f2\fs20\b\lang0{\*\listtag0}academy.teachers}{\s42\f2\fs20\lang0{\*\listtag0}">}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch             <field name="}{\s42\f2\fs20\b\lang0{\*\listtag0}name}{\s42\f2\fs20\lang0{\*\listtag0}">Jody Carroll</field>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch         </record>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch         <record id="vaughn" model="}{\s42\f2\fs20\b\lang0{\*\listtag0}academy.teachers}{\s42\f2\fs20\lang0{\*\listtag0}">}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch             <field name="}{\s42\f2\fs20\b\lang0{\*\listtag0}name}{\s42\f2\fs20\lang0{\*\listtag0}">Lester Vaughn</field>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch         </record>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch     </data>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch </openerp>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sb140\sa120\s24\itap0\keepn\tx3240{\s24\cf4\f0\fs28\b\lang0{\*\listtag0}\abinodiroverride\ltrch Accessing the data}{\s24\cf4\f0\fs28\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch The last step is to alter controller and template to use our demonstration data:}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+{\listtext\pard\sa140 1.	}\pard\plain{\ltrpar\ql\sa140\s48{\*\abilist\abilistid1000\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls1\ilvl0\sl287\slmult1\itap0\tx707{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch fetch the records from the database instead of having a static list}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+}{\listtext\pard\sa140 2.	}\pard\plain{\ltrpar\ql\sa140\s48{\*\abilist\abilistid1000\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls1\ilvl0\sl287\slmult1\itap0\tx707{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Because }{\field{\*\fldinst {\f1\fs24\lang0{\*\listtag0} HYPERLINK "https://www.odoo.com/documentation/9.0/reference/orm.html"}}{\*\fldrslt{\s48\f1\fs24\lang0{\*\listtag0}search()}}}{\s48\f1\fs24\lang0{\*\listtag0} returns a set of records matching the filter ("all records" here), alter the template to print each teacher's }{\s36\f2\fs20\lang0{\*\listtag0}name}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+}\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s36\f3\fs20\i\lang0{\*\listtag0}\abinodiroverride\ltrch academy/controllers.py}{\s48\f3\fs20\i\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch class Academy(http.Controller):}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch     @http.route('/academy/academy/', auth='public')}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch     def index(self, **kw):}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch         }{\s42\f2\fs20\b\lang0{\*\listtag0}Teachers}{\s42\f2\fs20\lang0{\*\listtag0} = http.request.env['}{\s42\f2\fs20\b\lang0{\*\listtag0}academy.teachers'}{\s42\f2\fs20\lang0{\*\listtag0}]}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch         return http.request.render('academy.index', \{}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch             '}{\s42\f2\fs20\b\lang0{\*\listtag0}teachers}{\s42\f2\fs20\lang0{\*\listtag0}': }{\s42\f2\fs20\b\lang0{\*\listtag0}Teachers.search}{\s42\f2\fs20\lang0{\*\listtag0}([])}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch         \})}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch #     @http.route('/academy/academy/objects/', auth='public')}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s36\f3\fs20\i\lang0{\*\listtag0}\abinodiroverride\ltrch academy/templates.xml}{\s48\f3\fs20\i\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch         <template id="index">}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch             <title>Academy</title>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch             <t t-foreach="}{\s42\f2\fs20\b\lang0{\*\listtag0}teachers}{\s42\f2\fs20\lang0{\*\listtag0}" t-as="">}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch                 <p><t t-esc=""/> <t t-esc=""/></p>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch             </t>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch         </template>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sb200\sa120\s23\itap0\keepn\tx3095{\s23\cf4\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch Website support}{\s23\cf4\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\cf4\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Odoo bundles a module dedicated to building websites.}{\s48\cf4\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch So far we've used controllers fairly directly, but Odoo 8 added deeper integration and a few other services (e.g. default styling, theming) via the }{\s36\f2\fs20\lang0{\*\listtag0}website}{\s48\f1\fs24\lang0{\*\listtag0} module.}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+{\listtext\pard\sa140 1.	}\pard\plain{\ltrpar\ql\sa140\s48{\*\abilist\abilistid1001\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls2\ilvl0\sl287\slmult1\itap0\tx707{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch first, add }{\s36\f2\fs20\lang0{\*\listtag0}website}{\s48\f1\fs24\lang0{\*\listtag0} as a dependency to }{\s36\f2\fs20\lang0{\*\listtag0}academy}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+}{\listtext\pard\sa140 2.	}\pard\plain{\ltrpar\ql\sa140\s48{\*\abilist\abilistid1001\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls2\ilvl0\sl287\slmult1\itap0\tx707{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch then add the }{\s36\f2\fs20\lang0{\*\listtag0}website=True}{\s48\f1\fs24\lang0{\*\listtag0} flag on the controller, this sets up a few new variables on }{\field{\*\fldinst {\f1\fs24\lang0{\*\listtag0} HYPERLINK "https://www.odoo.com/documentation/9.0/reference/http.html"}}{\*\fldrslt{\s48\f1\fs24\lang0{\*\listtag0}the request object}}}{\s48\f1\fs24\lang0{\*\listtag0} and allows using the website layout in our template}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+}{\listtext\pard\sa140 3.	}\pard\plain{\ltrpar\ql\sa140\s48{\*\abilist\abilistid1001\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls2\ilvl0\sl287\slmult1\itap0\tx707{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch use the website layout in the template}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+}\pard\plain\ltrpar\ql\s36\itap0{\s36\cf4\f3\fs20\i\lang0{\*\listtag0}\abinodiroverride\ltrch academy/__openerp__.py}{\s36\cf4\f3\fs20\i\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch     'version': '0.1',}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch     # any module necessary for this one to work correctly}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch  }{\s42\f2\fs20\b\lang0{\*\listtag0}   'depends': ['website'],}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s36\itap0{\s36\cf4\f3\fs20\i\lang0{\*\listtag0}\abinodiroverride\ltrch academy/controllers.py}{\s36\cf4\f3\fs20\i\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch from openerp import http}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch class Academy(http.Controller):}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch     @http.route('/academy/academy/', auth='public', }{\s42\f2\fs20\b\lang0{\*\listtag0}website=True}{\s42\f2\fs20\lang0{\*\listtag0})}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s36\itap0{\s36\cf4\f3\fs20\i\lang0{\*\listtag0}\abinodiroverride\ltrch academy/templates.xml}{\s36\cf4\f3\fs20\i\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch <openerp>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch     <data>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch         <template id="index">}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch             }{\s42\f2\fs20\b\lang0{\*\listtag0}<t t-call="website.layout">}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch                 <t }{\s42\f2\fs20\b\lang0{\*\listtag0}t-set="title"}{\s42\f2\fs20\lang0{\*\listtag0}>Academy</t>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch                }{\s42\f2\fs20\b\lang0{\*\listtag0} <div class="oe_structure">}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\b\lang0{\*\listtag0}\abinodiroverride\ltrch                     <div class="container">}{\s42\f2\fs20\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch                         <t t-foreach="teachers" t-as="teacher">}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch                             <p><t t-esc="teacher.id"/> }{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab \tab \tab <t t-esc="teacher.name"/></p>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch                         </t>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch                     </div>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch                 </div>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch             </t>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch         </template>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sb200\sa280\s23\itap0\keepn\tx3095{\s23\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch URLs and routing}{\s23\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch Controller methods are associated with }{\s36\f3\fs20\i\lang0{\*\listtag0}routes}{\s42\f2\fs20\lang0{\*\listtag0} via the }{\field{\*\fldinst {\f2\fs20\lang0{\*\listtag0} HYPERLINK "https://www.odoo.com/documentation/9.0/reference/http.html"}}{\*\fldrslt{\s42\f2\fs20\lang0{\*\listtag0}route()}}}{\s42\f2\fs20\lang0{\*\listtag0} decorator which takes a routing string and a number of attributes to customise its behavior or security.}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch We've seen a "literal" routing string, which matches a URL section exactly, but routing strings can also use }{\field{\*\fldinst {\f2\fs20\lang0{\*\listtag0} HYPERLINK "http://werkzeug.pocoo.org/docs/routing/"}}{\*\fldrslt{\s42\f2\fs20\lang0{\*\listtag0}converter patterns}}}{\s42\f2\fs20\lang0{\*\listtag0} which match bits of URLs and make those available as local variables. For instance we can create a new controller method which takes a bit of URL and prints it out:}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch  @http.route('/academy/}{\s42\f2\fs20\b\lang0{\*\listtag0}<name>/}{\s42\f2\fs20\lang0{\*\listtag0}', auth='public', website=True)}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch     def teacher(self, }{\s42\f2\fs20\b\lang0{\*\listtag0}name):}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch         return '<h1>\{\}</h1>'.format(}{\s42\f2\fs20\b\lang0{\*\listtag0}name)}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\cf4\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch access }{\field{\*\fldinst {\f1\fs24\lang0{\*\listtag0} HYPERLINK "http://localhost:8069/academy/Alice/"}}{\*\fldrslt{\s48\f1\fs24\lang0{\*\listtag0}http://localhost:8069/academy/Alice/}}}{\s48\cf4\f1\fs24\lang0{\*\listtag0} and }{\field{\*\fldinst {\f1\fs24\lang0{\*\listtag0} HYPERLINK "http://localhost:8069/academy/Bob/"}}{\*\fldrslt{\s48\f1\fs24\lang0{\*\listtag0}http://localhost:8069/academy/Bob/}}}{\s48\cf4\f1\fs24\lang0{\*\listtag0} and see the difference.}{\s48\cf4\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\cf4\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch As the name indicates, }{\field{\*\fldinst {\f1\fs24\lang0{\*\listtag0} HYPERLINK "http://werkzeug.pocoo.org/docs/routing/"}}{\*\fldrslt{\s48\f1\fs24\lang0{\*\listtag0}converter patterns}}}{\s48\cf4\f1\fs24\lang0{\*\listtag0} don't just do extraction, they also do }{\s36\cf4\f3\fs20\i\lang0{\*\listtag0}validation}{\s48\cf4\f1\fs24\lang0{\*\listtag0} and }{\s36\cf4\f3\fs20\i\lang0{\*\listtag0}conversion}{\s48\cf4\f1\fs24\lang0{\*\listtag0}, so we can change the new controller to only accept integers:}{\s48\cf4\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch  @http.route('/academy/<int:id>/', auth='public', website=True)}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch     def teacher(self, id):}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch \tab \tab return '<h1>\{\} (\{\})</h1>'.format(id, type(id).__name__)}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sb240\sa120\s22\itap0\keepn\tx2951{\s22\f0\fs36\b\lang0{\*\listtag0}\abinodiroverride\ltrch 4 (int)}{\s22\f0\fs36\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\field{\*\fldinst {\f1\fs24\lang0{\*\listtag0} HYPERLINK "http://localhost:8069/academy/4/"}}{\*\fldrslt{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch http://localhost:8069/academy/4/}}}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Odoo provides an additional converter called }{\s36\f2\fs20\b\lang0{\*\listtag0}model}{\s48\f1\fs24\b\lang0{\*\listtag0} }{\s48\f1\fs24\lang0{\*\listtag0}which provides records directly when given their id. Let's use this to create a generic page for teacher biographies:}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch @http.route('/academy/}{\s48\f1\fs24\b\lang0{\*\listtag0}<model("academy.teachers"):teacher}{\s48\f1\fs24\lang0{\*\listtag0}>/', auth='public', website=True)}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch     def teacher(self, }{\s48\f1\fs24\b\lang0{\*\listtag0}teacher}{\s48\f1\fs24\lang0{\*\listtag0}):}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch         return http.request.render('academy.biography', \{}{\s48\f1\fs24\b\lang0{\*\listtag0}'person': teacher}{\s48\f1\fs24\lang0{\*\listtag0}\})}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch  <template id="biography">}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch             <t t-call="website.layout">}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch                 <t t-set="title">Academy</t>}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch                  <div class="oe_structure"/>}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch                 <div class="oe_structure">}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch                     <div class="container">}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch                         <h3><t t-esc="}{\s48\f1\fs24\b\lang0{\*\listtag0}person.name}{\s48\f1\fs24\lang0{\*\listtag0}"/></h3>}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch                     </div>}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch                 </div>}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch                 <div class="oe_structure"/>}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch  </t>}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch         </template>}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sb200\sa120\s23\itap0\keepn\tx3095{\s23\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch Field edition}{\s23\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Data which is specific to a record should be saved on that record, so let us add a new biography field to our teachers:}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s36\f3\fs20\i\lang0{\*\listtag0}\abinodiroverride\ltrch academy/models.py}{\s48\f3\fs20\i\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch     _name = 'academy.teachers'}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch     name = fields.Char()}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch    }{\s42\f2\fs20\b\lang0{\*\listtag0} biography = fields.Html()}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s36\f3\fs20\i\lang0{\*\listtag0}\abinodiroverride\ltrch academy/templates.xml}{\s48\f3\fs20\i\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch                 <div class="oe_structure">}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch                     <div class="container">}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch                         <h3><t }{\s42\f2\fs20\b\lang0{\*\listtag0}t-esc="person.name"}{\s42\f2\fs20\lang0{\*\listtag0}/></h3>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch                         <div><t }{\s42\f2\fs20\b\lang0{\*\listtag0}t-esc="person.biography"}{\s42\f2\fs20\lang0{\*\listtag0}/></div>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch                     </div>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch                 </div>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch                 <div class="oe_structure"/>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Restart Odoo and update the views, reload the teacher's page and\uc1\u8230\'85 the field is invisible since it contains nothing.}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\b\lang0{\*\listtag0}\abinodiroverride\ltrch For record fields, templates can use a special }{\s36\f2\fs20\b\lang0{\*\listtag0}t-field}{\s48\f1\fs24\b\lang0{\*\listtag0} directive which allows editing the field content from the website using field-specific interfaces}{\s48\f1\fs24\lang0{\*\listtag0}. Change the }{\s36\f3\fs20\i\lang0{\*\listtag0}person}{\s48\f1\fs24\lang0{\*\listtag0} template to use }{\s36\f2\fs20\lang0{\*\listtag0}t-field}{\s48\f1\fs24\lang0{\*\listtag0}:}{\s48\f1\fs24\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s36\f3\fs20\i\lang0{\*\listtag0}\abinodiroverride\ltrch academy/templates.xml}{\s48\f3\fs20\i\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch                 <div class="oe_structure"/>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch                 <div class="oe_structure">}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch                     <div class="container">}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch                         <h3 t-field="person.name"/>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch                         <div t-field="person.biography"/>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch                     </div>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch                 </div>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch                 <div class="oe_structure"/>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Restart Odoo and upgrade the module, there is now a placeholder under the teacher's name and a new zone for blocks in Edit mode. Content dropped there is stored in the corresponding teacher's }{\s36\f2\fs20\lang0{\*\listtag0}biography}{\s48\f1\fs24\lang0{\*\listtag0} field, and thus specific to that teacher.}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch The teacher's name is also editable, and when saved the change is visible on the index page.}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch <p>Last modified: <i t-field="person.write_date"/></p>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch                        }{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch  <p>Last modified: <i t-field="person.write_date" t-field-options='\{"format": "long"\}'/></p>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sb200\sa280\s23\itap0\keepn\tx3095{\s23\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch Administration and ERP integration}{\s23\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch actions. Actions have various types: links, reports, code which Odoo should execute or data display. Data display actions are called }{\s36\f3\fs20\i\lang0{\*\listtag0}window actions}{\s48\f1\fs24\lang0{\*\listtag0}, and tell Odoo to display a given }{\s36\f3\fs20\i\lang0{\*\listtag0}model}{\s48\f1\fs24\lang0{\*\listtag0} according to a set of views\uc1\u8230\'85}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch a view has a type, a broad category to which it corresponds (a list, a graph, a calendar) and an }{\s36\f3\fs20\i\lang0{\*\listtag0}architecture}{\s48\f1\fs24\lang0{\*\listtag0} which customises the way the model is displayed inside the view.}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sb140\sa120\s24\itap0\keepn\tx3240{\s24\f0\fs28\b\lang0{\*\listtag0}\abinodiroverride\ltrch Editing in the Odoo administration}{\s24\f0\fs28\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s36\itap0{\s36\f3\fs20\i\lang0{\*\listtag0}\abinodiroverride\ltrch academy/views.xml}{\s36\f3\fs20\i\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch <openerp>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch  <data>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch   <record id="action_academy_teachers" model="ir.actions.act_window">}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch     <field name="name">Academy teachers</field>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch     <field name="res_model">academy.teachers</field>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch   </record>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch   <menuitem sequence="0" id="menu_academy" name="Academy"/>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch   <menuitem id="menu_academy_content" parent="menu_academy"}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch             name="Academy Content"/>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch   <menuitem id="menu_academy_content_teachers"}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch             parent="menu_academy_content"}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch             action="action_academy_teachers"/>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch then accessing }{\field{\*\fldinst {\f1\fs24\lang0{\*\listtag0} HYPERLINK "http://localhost:8069/web/"}}{\*\fldrslt{\s48\f1\fs24\lang0{\*\listtag0}http://localhost:8069/web/}}}{\s48\f1\fs24\lang0{\*\listtag0} in the top left should be a menu Academy, which is selected by default, as it is the first menu, and having opened a listing of teachers. From the listing it is possible to Create new teacher records, and to switch to the "form" by-record view.}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch If there is no definition of how to present records (a }{\field{\*\fldinst {\f1\fs24\lang0{\*\listtag0} HYPERLINK "https://www.odoo.com/documentation/9.0/reference/views.html"}}{\*\fldrslt{\s48\f1\fs24\lang0{\*\listtag0}view}}}{\s48\f1\fs24\lang0{\*\listtag0}) Odoo will automatically create a basic one on-the-fly. In our case it works for the "list" view for now (only displays the teacher's name) but in the "form" view the HTML }{\s36\f2\fs20\lang0{\*\listtag0}biography}{\s48\f1\fs24\lang0{\*\listtag0} field is displayed side-by-side with the }{\s36\f2\fs20\lang0{\*\listtag0}name}{\s48\f1\fs24\lang0{\*\listtag0} field and not given enough space. Let's define a custom form view to make viewing and editing teacher records a better experience:}{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s36\f3\fs20\i\lang0{\*\listtag0}\abinodiroverride\ltrch academy/views.xml}{\s48\f3\fs20\i\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch     <field name="name">Academy teachers</field>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch     <field name="res_model">academy.teachers</field>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch   </record>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch   <record id="academy_teacher_form" model="ir.ui.view">}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch     <field name="name">Academy teachers: form</field>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch     <field name="model">academy.teachers</field>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch     <field name="arch" type="xml">}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch       <form>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch         <sheet>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch           <label for="name"/> <field name="name"/>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch           <label for="biography"/>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch           <field name="biography"/>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch         </sheet>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch       </form>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch     </field>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch   </record>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch   <menuitem sequence="0" id="menu_academy" name="Academy"/>}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa280\s42\itap0{\s42\f2\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch   <menuitem id="menu_academy_content" parent="menu_academy"}{\s42\f2\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa140\s48\sl287\slmult1\itap0{\s48\f1\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\itap0{\f1\fs24\lang1024{\*\listtag0}\par}}

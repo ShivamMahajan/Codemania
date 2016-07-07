@@ -1,0 +1,48 @@
+Task 1:Appraisee/Appraiser Deadline
+	Steps:
+	1.Create the two fields for Appraise & Appraiser Deadlime
+	2.Redefine the  _check_deadline method in main.py in survey module
+
+Task 2:Non-Editable Appraisal form Request fo the Employee
+	Steps:
+	1.Define the access rights for hr_evaluation_evaluation_employee  module in hr_evaluation
+
+Task 3:Appraiser comment not Mandatory
+	Steps :
+	1.Redefine the "validate_matrix_monthly "" in survey.py file
+ 
+Task 4:Wizard for resending the appraisal form by The Project Manager 
+	Steps:
+	1.Redefine the button ("Resend ") that can call the Wizard
+	2.Create a wizard that will open a window whwre the manager must put the reason for sending the form back to the appraisee
+	3.Defina a function that will send a mail to the appraise from the appraiser mentining the reason for resending form .
+	4.Also the user defined function will change the state of the form  to resend 
+
+Task 5 :
+	Steps :
+	1.Validation for the whitespace comments in the appraisal form
+	2.Fixed Bugs
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+1.We created the Users tab in companies under the Setting menu where we can make a list of all emails of the  user that are allowed to log in  that company .
+2.Now the login for the existing user and and signup for the new user in the  system will be done on the basis of the email registered with the companies in Setting menu under Users tab .
+3.The leaves types will be visible company wise depending upon the selection of companies for leave types made by the admin user .
+4 .The public holidays will be visible company wise depending upon the selection of companies for leave types made by the admin user .
+5.The mechanism chart will be visible company wise depending upon the selection of companies for leave types made by the admin user .
+6.The company choice can be done by admin user only
+
+
+LMS
+
+1.Optimized the code for leave policies
+2.By pass the leave policies for the desired companies
+3.The leave mechanism chart will only be followed when allocated leaves are in approved state .
+4.The leave mechanism will stop being follwed once the allocated EL and CL will not be remaining .
+
+15 March 2016
+1.Advance leave field is only visible for the company user following the leave policies
+2.Easily uUpdate the current record without any error since the current record io by passes from serach query .
+ 

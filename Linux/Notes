@@ -1,0 +1,70 @@
+sudo rm -r -f filename (Deleting s a file)
+cp -a  /path/from  /path/to ( Copy a file)
+mv  fromPath/   toPath/ ( Moving a file)
+
+sudo su ( Root user)
+sudo adduser --system --home=/opt/odoo --group odoo ( creating User)
+sudo su - odoo -s /bin/bash ( changing user)
+
+sudo apt-get update        # Fetches the list of available updates
+sudo apt-get upgrade       # Strictly upgrades the current packages
+sudo apt-get dist-upgrade  # Installs updates (new ones)
+
+
+sudo lsof -t -i:8069   (List all the pid running on the port)
+
+kill pid (proces id)
+
+sudo chown -R yourusername:yourusername Pictures
+
+
+SVN Commands :
+
+svn co svn://192.168.0.19/Odoo_Hytech 
+User:- shivamm
+Password:-htp@123
+
+1. svn st(give status of status)
+2. svn ci -m "Message" file_path to commit(e.g addons/sale/sale.py)
+3. svn log
+4. svn add file_path(e.g addons/sale/sale.py)
+5. svn diff
+6.svn update
+
+svn info
+svn help
+svn cleanup
+svn add [file_path]
+svn revert
+
+
+svn add --force *
+
+
+Odoo Intranet FTP
+
+Host : 192.168.0.4
+username : administrator
+password :
+port : 22
+
+Putty : Login
+administrator
+
+Server stop : sudo servie odoo-server start
+
+    sudo service openerp-server stop
+    	 service openerp-server start
+
+
+sudo service postgresql restart (From Current User)
+
+sudo su - postgres
+
+psql odoo56
+
+
+tail -f /var/log/odoo/openerp-server.log
+
+
+

@@ -1,0 +1,480 @@
+{\rtf1\ansi\ansicpg1252\deff0\uc1
+{\fonttbl
+{\f0\fnil\fcharset0\fprq0\fttruetype Liberation Serif;}
+{\f1\fnil\fcharset0\fprq0\fttruetype Arial;}
+{\f2\fnil\fcharset0\fprq0\fttruetype Courier New;}
+{\f3\fnil\fcharset0\fprq0\fttruetype Courier;}
+{\f4\fnil\fcharset0\fprq0\fttruetype Liberation Sans;}}
+{\colortbl
+\red0\green0\blue0;
+\red255\green255\blue255;
+\red255\green255\blue255;
+\red255\green0\blue0;}
+{\stylesheet
+{\s6\tx1584\sbasedon33\snext32 Chapter Heading;}
+{\s45\sl286\slmult1\sa137\f0\fs24\lang0\sbasedon32 Text Body;}
+{\s41\fi-428\li720 Star List;}
+{\s21\sb240\sa117\f4\fs28\lang0\sbasedon32\snext45 Heading;}
+{\s30\fi-428\li720\sbasedon36 Lower Case List;}
+{\s2\li1440\ri1440\sa117\sbasedon32 Block Text;}
+{\s48\fi-428\li720 Triangle List;}
+{\s22\sb440\sa60\f1\fs34\b\sbasedon32\snext32 Heading 1;}
+{\s23\sb440\sa60\f1\fs28\b\sbasedon32\snext32 Heading 2;}
+{\s4\fi-428\li720 Bullet List;}
+{\s25\sb440\sa60\f1\fs24\b\sbasedon32\snext32 Heading 4;}
+{\s26\fi-428\li720 Heart List;}
+{\s1\fi-428\li720 Arrowhead List;}
+{\s44\qc\f0\fs24\b\lang0\sbasedon43 Table Heading;}
+{\s40\fi-428\li720 Square List;}
+{\s42\qc\sb60\sa118\f4\fs36\lang0\sbasedon21\snext45 Subtitle;}
+{\s11\qc\sb240\sa117\f1\fs32\b\sbasedon32\snext32 Contents Header;}
+{\s37\f2\sbasedon32 Plain Text;}
+{\s19\fs20\sbasedon32 Footnote Text;}
+{\s24\sb440\sa60\f1\fs24\b\sbasedon32\snext32 Heading 3;}
+{\s36\fi-428\li720 Numbered List;}
+{\s13\fi-428\li720 Diamond List;}
+{\s20\fi-428\li720 Hand List;}
+{\s49\fi-428\li720\sbasedon36 Upper Case List;}
+{\s38\sa279\f0\fs24\lang0\sbasedon32 Quotations;}
+{\s29\sl286\slmult1\sa137\f0\fs24\lang0\sbasedon45 List;}
+{\s3\fi-428\li720 Box List;}
+{\s50\fi-428\li720\sbasedon36 Upper Roman List;}
+{\s32\f0\fs24\lang0 Normal;}
+{\s5\sb117\sa117\f0\fs24\i\lang0\sbasedon32 Caption;}
+{\s47\qc\sb240\sa118\f4\fs56\b\lang0\sbasedon21\snext45 Title;}
+{\s28\f0\fs24\lang0\sbasedon32 Index;}
+{\s39\tx1584\sbasedon33\snext32 Section Heading;}
+{\s43\f0\fs24\lang0\sbasedon32 Table Contents;}
+{\s27\fi-428\li720 Implies List;}
+{\s46\fi-428\li720 Tick List;}
+{\s14\fi-288\li288\sbasedon32 Endnote;}
+{\s12\fi-428\li720 Dashed List;}
+{\s31\fi-428\li720\sbasedon32 Lower Roman List;}
+{\*\cs18\fs20\super Footnote Reference;}
+{\s16\sbasedon32 Endnote Text;}
+{\*\cs15\fs20\super Endnote Reference;}
+{\s33\tx431\sbasedon22\snext32 Numbered Heading 1;}
+{\s34\tx431\sbasedon23\snext32 Numbered Heading 2;}
+{\s35\tx431\sbasedon24\snext32 Numbered Heading 3;}
+{\s17\fi-288\li288\fs20\sbasedon32 Footnote;}
+{\s7\fi-428\li720\sbasedon32\snext32 Contents 1;}
+{\s8\fi-428\li1440\sbasedon32\snext32 Contents 2;}
+{\s9\fi-428\li2160\sbasedon32\snext32 Contents 3;}
+{\s10\fi-428\li2880\sbasedon32\snext32 Contents 4;}}
+{\*\listtable
+{\list\listtemplateid1104\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-428\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}}\listid1}}
+{\*\listoverridetable
+{\listoverride\listoverridecount0\listid1\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-428\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls1}}
+
+\kerning0\cf0\ftnbj\fet2\ftnstart1\ftnnar\aftnnar\ftnstart1\aftnstart1\aenddoc\revprop3{\*\rdf}{\info\uc1}\deftab720\viewkind1\paperw11905\paperh16837\margl1440\margr1440\widowctrl
+\sectd\sbknone\colsx360\footery413\margtsxn1133\margbsxn1133\marglsxn1133\margrsxn1133\pgncont\ltrsect
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab     }{\s32\f0\fs52\lang0{\*\listtag0}   }{\s32\f0\fs52\b\ul\lang0{\*\listtag0}Security}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch OpenERP has two kinds of security restrictions that can be assigned to a }{\s32\f0\fs32\b\lang0{\*\listtag0}user group}{\s32\f0\fs32\lang0{\*\listtag0}:}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch     }{\s32\f0\fs32\b\lang0{\*\listtag0}Access Rights}{\s32\f0\fs32\lang0{\*\listtag0} are CRUD yes/no flags and allow }{\s32\f0\fs32\b\lang0{\*\listtag0}per-model }{\s32\f0\fs32\lang0{\*\listtag0}access control. They state whether members of this group may perform a Create, Read, Update, and Delete operation on any document of a certain document model (e.g. a project task). The }{\s32\f0\fs32\b\lang0{\*\listtag0}default policy is DENY,}{\s32\f0\fs32\lang0{\*\listtag0} so by default any operation will be refused if the user does not explicitly have the right to perform it via one of her groups' access rights.}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink  }{\s32\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch access_}{\s32\f0\fs32\b\lang0{\*\listtag0}hr_employee_category}{\s32\f0\fs32\lang0{\*\listtag0}_user,hr.employee.category.user,model_hr_employee_category,base.group_hr_user,1,1,1,1}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch Record Rules }{\s32\f0\fs32\lang0{\*\listtag0}are filters applied on CRUD operations, and allow}{\s32\f0\fs32\b\lang0{\*\listtag0} per-document (record ) a}{\s32\f0\fs32\lang0{\*\listtag0}ccess-control, once access right are already granted. Users will only be able to perform an operation on a given document if the document matches at least one of the record rules. The }{\s32\f0\fs32\b\lang0{\*\listtag0}default policy is ALLOW}{\s32\f0\fs32\lang0{\*\listtag0}, so if no rule exists for a given model, all documents of that model may be accessed by users who have the necessary access rights.}{\s32\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch Both Access Rights and Record Rules may also be defined globally without assigning them to a specific group, in which case they apply to everyone. There is one pitfall for Record Rules: global rules may NOT be relaxed by other rules (on purpose!), so use with care.}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch     object/model: project.task}{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch     name: See own tasks only}{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch     domain: ['|',('user_id','=',False),('user_id','=',user.id)]}{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch         (means: your own tasks and unassigned ones)}{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch     apply for read: [x]}{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch     apply for write: [x]}{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch     apply for create: [x]}{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch     apply for delete: [x]}{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch     groups: Project / User}{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch The domain of a record rule is a standard OpenERP domain that is evaluated on the records on which you are trying to perform the operation, and can refer to a user variable that contains the current user's data .}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch If you want to allow special users (e.g. Project Managers) to view all tasks in the system, you can relax this rule for them by adding another rule to the Project Manager group which allows access to all tasks. }{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch There is a special "domain filter" that means "ALLOW ALL" and is useful to relax another stricter rule: [(1,'=',1)].}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch Global Rule :Apply for all the groups in the sysytem by using the key global.}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch    <record id="hr_employee_multi_comp_rule" model="ir.rule">}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch             <field name="name">Employee multi company rule</field>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch             <field name="model_id" ref="model_hr_employee"/>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch             <field eval="}{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}True}{\s32\cf3\f0\fs32\lang0{\*\listtag0}" name="}{\s32\cf3\f0\fs32\b\ul\lang0{\*\listtag0}global}{\s32\cf3\f0\fs32\lang0{\*\listtag0}"/>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch             <field name="domain_force">['|',('company_id','=',False),('company_id','child_of',[user.company_id.id])]</field>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         </record>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch Group Rule :}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch    <record id="hr_employee_interview_project_manager" model="ir.rule">}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         <field name="name">Interview Project Manager</field>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         <field name="model_id" ref="model_hr_evaluation_evaluation"/>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         <field name="domain_force">[('employee_id', 'child_of', \tab [user.employee_ids[0].id])]</field>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         <field eval="}{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}False}{\s32\cf3\f0\fs32\lang0{\*\listtag0}" name="}{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}global}{\s32\cf3\f0\fs32\lang0{\*\listtag0}"/>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         <field name="groups" \tab eval="[(4,ref('base.group_hr_project_manager'))]"/>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch     </record>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch     }{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch Syntax}{\s32\f0\fs32\lang0{\*\listtag0} :}{\s32\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch <record model="ir.rule" id="ir_values_my_costume_rule">}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         <field name="name">My Rule Name</field>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         <field name="model_id" ref="model_your_model_name"/>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         <field name="domain_force">[('field','operator','value'),('user_id','=',user.id)]</field>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         <field name="perm_read" eval="True"/>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         <field name="perm_write" eval="True"/>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         <field name="perm_unlink" eval="True"/>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         <field name="perm_create" eval="True"/>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch     </record>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch By default True}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch so need not to mention explicitly}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch Record Rules For Objects}{\s32\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch Record rules determine who can access the objects, depending on the rules set for the particular object. A record rule has some tests to be performed on objects.}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch You can manage four access modes on objects independently, depending on the test:}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         Read access : can read the data in the object,}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         Create access : can create a new record in the object,}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         Write access : can modify the contents of records in the object,}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         Delete access : can delete records from the object.}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch To configure a rule on an object, use the menu Administration ? Security ? Record Rules. The fields in the ir.rule object describe:}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         Object : Object on which to have the rule}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         Name : Name of the rule}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         Global : If global is checked, then that rule would be applied for all the groups; and if it is unchecked, then that rule would be applied only for the groups selected for it}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         Domain : A list of all the tests for the object. It is specified through a Python expression as a list of tuples.}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch                 If there are multiple tests on same object, then all of them are joined using AND operator, and depending on the result the rule would be satisfied}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch                 If there are multiple rules on same object, then all of them are joined using OR operator}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         Access Modes : Read, Write, Create, Delete as described earlier}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch                     If only one access mode is checked, then only that mode would be applied}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch                     If all of them are checked, then all the access modes would be applied}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch             But at least one access mode has to be checked, all of them cannot be unchecked. If all of them are unchecked, it would raise an exception.}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch \tab }{\s32\f0\fs44\b\lang0{\*\listtag0}\tab }{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs44\b\lang0{\*\listtag0}\abinodiroverride\ltrch Step 1:Define Group Cateogies (.xml file)}{\s32\f0\fs44\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs44\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs44\b\lang0{\*\listtag0}\abinodiroverride\ltrch Step 2 :Define User Groups for Caetgories(User,Manager,Vendor)}{\s32\f0\fs44\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs44\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs44\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs44\b\lang0{\*\listtag0}\abinodiroverride\ltrch 3.Define the record rules for the group }{\s32\f0\fs44\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs44\b\ul\lang0{\*\listtag0}\abinodiroverride\ltrch ir.rule :}{\s32\f0\fs44\b\ul\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs44\b\lang0{\*\listtag0}\abinodiroverride\ltrch Control the visibility of data to the particular user of the group .}{\s32\f0\fs44\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs44\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs44\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch Creating }{\s32\f0\fs32\b\lang0{\*\listtag0}Category}{\s32\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch First you have to create category for your group like this:}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch <record model="ir.module.category" id="module_my_gourp_category">}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         <field name="name">My Group Category</field>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         <field name="description">Group Description.</field>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         <field name="sequence">10</field>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch     </record>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch Then give category reference in your group like this:}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch <record id="my_group" model="res.groups">}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch     <field name="name">My Group</field>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch     <field name="category_id" ref="module_my_gourp_category"/>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch </record>}{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch Creating Groups}{\s32\cf3\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch   <record id="base.group_hr_manager" model="res.groups">}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         <field name="name">Manager</field>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         <field name="comment">the user will have an access to the human resources configuration as well as statistic reports.</field>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         <field name="category_id" ref="base.module_category_human_resources"/>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         <field name="implied_ids" eval="[(4, ref('base.group_hr_user'))]"/>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch \tab # Inheritng the group  base.group_hr_user}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch         <field name="users" eval="[(4, ref('base.user_root'))]"/>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch \tab #  base.user_root inherit the  base.group_hr_manager & \tab base.group_hr_user i.e Admin is Manager as well as User}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch     </record>}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch base.group_system (admin user)}{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\cf3\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch This will create selection for group instead of check box .}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch If there is hierarchy followed in all the groups for the model then category will appear as Checkboz otherwise if there is no clean hierarchy the category will appear as checkbox .}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch 1. Can Record Rules override Acces Rules?}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch NO}{\s32\f0\fs32\lang0{\*\listtag0}  , Access rules are per Model access rules and record rules are per Record rules so they can't override the first rule.}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch 2. Are Record Rules only used to filter some visible data? Yes}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch 3. Can Record Rules be used to reduce or increase the permissions? or even both? }{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch     Indirectly it could as you could allow people to see datas that is not natively supposed to be displayed. It's a kind of reduc/increase permission}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch Domain}{\s32\f0\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch Each tuple in the search domain needs to have 3 elements, in the form: ('field_name', 'operator', value), where:}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch     field_name must be a valid name of field of the object model, possibly following many-to-one relationships using dot-notation, e.g 'street' or 'partner_id.country' are valid values.}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch     operator must be a string with a valid comparison operator from this list: =, !=, >, >=, <, <=, like, ilike, in, not in, child_of, parent_left, parent_right The semantics of most of these operators are obvious. The child_of operator will look for records who are children or grand-children of a given record, according to the semantics of this model (i.e following the relationship field named by self._parent_name, by default parent_id.}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch     value must be a valid value to compare with the values of field_name, depending on its type}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch Domain criteria can be combined using 3 logical operators than can be added between tuples: '&' (logical AND, default), '|' (logical OR), '!' (logical NOT). These are prefix operators and the arity of the '&' and '|' operator is 2, while the arity of the '!' is just 1. Be very careful about this when you combine them the first time.}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch Here is an example of searching for Partners named ABC from Belgium and Germany whose language is not english ::}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch [('name','=','ABC'),'!',('language.code','=','en_US'),'|',('country_id.code','=','be'),('country_id.code','=','de')]}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch The '&' is omitted as it is the default, and of course we could have used '!=' for the language, but what this domain really represents is::}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch (name is 'ABC' AND (language is NOT english) AND (country is Belgium OR Germany))}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch List of Domain operators: ! (Not), | (Or), & (And)   }{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch Priority :NAO}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch List of Term operators: }{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch '=', '!=', '<=', '<', '>', '>=', '=?', '=like', '=ilike', 'like', 'not like', 'ilike', 'not ilike', 'in', 'not in', 'child_of'}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch <> not equal to}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sb440\sa60\s22\sl240\slmult1\itap0{\s22\f1\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch Comparison operators}{\s22\f1\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f1\fs32\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch \uc0\u-257 }{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch A domain is a list of criteria, each criterion being a triple (either a list or a tuple) of (field_name, operator, value) where:}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch [(field_name, operator, value)]}{\s37\f2\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs32\lang0{\*\listtag0}\par}
+{\listtext\pard\fi-428\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-428\li720\s32{\*\abilist\abilistid1\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls1\ilvl0\sl240\slmult1\itap0{\s32\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch field_name}{\s32\f0\fs32\lang0{\*\listtag0} (}{\s32\f0\fs32\i\lang0{\*\listtag0}str}{\s32\f0\fs32\lang0{\*\listtag0}) a field name of the current model, or a relationship traversal through a }{\s32\f3\fs32\lang0{\*\listtag0}Many2one}{\s32\f0\fs32\lang0{\*\listtag0} using dot-notation e.g. }{\s32\f3\fs32\lang0{\*\listtag0}'street'}{\s32\f0\fs32\lang0{\*\listtag0} or }{\s32\f3\fs32\lang0{\*\listtag0}'partner_id.country'}{\s32\f2\fs32\lang0{\*\listtag0}\par}
+}{\listtext\pard\fi-428\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-428\li720\s32{\*\abilist\abilistid1\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls1\ilvl0\sl240\slmult1\itap0{\s32\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch operator}{\s32\f0\fs32\lang0{\*\listtag0} (}{\s32\f0\fs32\i\lang0{\*\listtag0}str}{\s32\f0\fs32\lang0{\*\listtag0}) an operator used to compare the }{\s32\f3\fs32\lang0{\*\listtag0}field_name}{\s32\f0\fs32\lang0{\*\listtag0} with the }{\s32\f3\fs32\lang0{\*\listtag0}value}{\s32\f0\fs32\lang0{\*\listtag0}. Valid operators are:}{\s32\f3\fs32\lang0{\*\listtag0}\par}
+}{\listtext\pard\fi-428\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-428\li720\s32{\*\abilist\abilistid1\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls1\ilvl0\sl240\slmult1\itap0{\s32\f0\fs32\b\lang0{\*\listtag0}\abinodiroverride\ltrch value}{\s32\f0\fs32\lang0{\*\listtag0}: variable type, must be comparable (through operator) to the named field}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+}{\listtext\pard\fi-428\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-428\li720\s32{\*\abilist\abilistid1\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls1\ilvl0\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+}\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch Comparison operators (}{\s32\f0\fs24\lang0{\*\listtag0}Term operators }{\s32\f0\fs32\lang0{\*\listtag0})}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch Description \tab PY \tab XML \tab Notes}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch equals to \tab = \tab = \tab }{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch not equals to \tab != \tab &lt;&gt; \tab }{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch greater than \tab > \tab &gt; \tab }{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch greater than or equal to \tab >= \tab &gt;= \tab }{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch less than \tab < \tab &lt; \tab }{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch less than or equal to \tab <= \tab &lt;= \tab }{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch unset or equals to \tab =? \tab =? \tab unset or equals to (returns true if value is either None or False, otherwise behaves like  =)}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch matches value \tab =like \tab =like \tab }{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch matches field_name against the value pattern. An underscore _ in the pattern stands for (matches) any single character; a percent sign % matches any string of zero or more characters.}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch matches %value% \tab like \tab like \tab }{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch matches field_name against the %value% pattern. Similar to =like but wraps value with \uc1\u8216\'91%\uc1\u8217\'92 before matching}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch doesn\uc1\u8217\'92t match %value% \tab not like \tab not like \tab }{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch doesn\uc1\u8217\'92t match against the %value% pattern}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch case insensitive like \tab ilike \tab ilike \tab }{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch case insensitive not like \tab not ilike \tab not ilike \tab }{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch case insensitive =like \tab =ilike \tab =ilike \tab }{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch equal to any of \tab in \tab in \tab is equal to any of the items from value, value should be a list of items}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch unequal to all of \tab not in \tab not in \tab }{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch child of \tab child_of \tab child_of \tab Takes the semantics of the model into account (i.e following the relationship field named by _parent_name).}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch Combining logical expresions ( }{\s32\f0\fs24\lang0{\*\listtag0}Domain operators )}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch \uc0\u-257 Domain criteria can be combined using logical operators in }{\s32\f0\fs24\i\lang0{\*\listtag0}prefix}{\s32\f0\fs24\lang0{\*\listtag0} form:}{\s32\f0\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch Description \tab PY \tab Aridad \tab Notes}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch Logical AND \tab & \tab 2 \tab default operation to combine criteria following one another. Arity 2 (uses the next 2 criteria or combinations).}{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch logical OR \tab | \tab 2 \tab }{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\abinodiroverride\ltrch logical NOT \tab ! \tab 1 \tab }{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs32\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch \uc0\u-257 }{\s32\f0\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Example}{\s32\f0\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch To search for partners named }{\s32\f0\fs24\i\lang0{\*\listtag0}ABC}{\s32\f0\fs24\lang0{\*\listtag0}, from belgium or germany, whose language is not english:}{\s32\f0\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch [('name','=','ABC'),\line  ('language.code','!=','en_US'),\line  '|',('country_id.code','=','be'),\line      ('country_id.code','=','de')]\line }{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch This domain is interpreted as:}{\s32\f0\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch     (name is 'ABC')\line AND (language is NOT english)\line AND (country is Belgium OR Germany)}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch In OpenERP domain filter, it will be written as:}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch syntax : Each tuple in the domain has three fields ->  ('field_name', 'operator', value)}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch field_name : a valid name of field of the object model or in the database table}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch operator : valid operators are =, !=, >, >=, <, <=, like, ilike, in, not in, child_of, parent_left, parent_right (openerp/osv/expression.py)}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch value : a valid value to compare with the values of field_name, depending on its type.}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch                                                                                                                                                                                                                                                                         }{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch ie, domain = [('field1','=',10)] # where field1 should be a field in the model and 10 will be the value}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch or domain = [('field1','=',field2)] # where field1 and field2 should be the fields in the model}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Condition AND}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Simple condition in programming:    }{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch if field1 = 5 and field2 = 10}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch In OpenERP domain filter, it will be written as:}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch ie, domain = [('field1','=',5),('field2','=',10)]}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch or domain = [('field1','=',field3),('field1','=',field3)]}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Note : Note that if you don't specify any condition at the beginning }{\s37\f2\fs24\b\lang0{\*\listtag0}and }{\s37\f2\fs24\lang0{\*\listtag0}condition will be applied.}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Condition OR}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Simple condition in programming:    }{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch if field1 = 5 or field2 = 10}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch In OpenERP domain filter, it will be written as:}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch ie, domain = ['|', ('field1','=',5),('field2','=',10)]}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch or domain = ['|', ('field1','=',field3),('field1','=',field3)]}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch  }{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Multiple Condition}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Simple condition in programming:  }{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch if field1 = 5 or (field2 ! = 10 and field3 = 12)}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch In OpenERP domain filter, it will be written as:}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch domain = ['|',('field1','=',5),('&',('field2','!=',10),('field3','=','12'))]}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Available domain operator in openerp/odoo?}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch This gives a overview:}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch List of Domain operators: ! (Not), | (Or), & (And)}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch NAO}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch List of Term operators: }{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch '=', '!=', '<=', '<', '>', '>=', '=?', '=like', '=ilike', 'like', 'not like', 'ilike', 'not ilike', 'in', 'not in', 'child_of'}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Usage:}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Input records:}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Record 1: Openerp}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Record 2: openerp}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Record 3: Opensource}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Record 4: opensource}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Record 5: Open}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Record 6: open}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Record 7: Odoo}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Record 8: odoo}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Record 9: Odooopenerp}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Record 10: OdooOpenerp}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch 'like': [('input', 'like', 'open')] - Returns case sensitive (wildcards - '%open%') search.}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch O/p: open, opensource, openerp, Odooopenerp}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch 'not like': [('input', 'not like', 'open')] - Returns results not matched with case sensitive (wildcards - '%open%') search.}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch O/p: Openerp, Opensource, Open, Odoo, odoo, OdooOpenerp}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch '=like': [('name', '=like', 'open')] - Returns exact (= 'open') case sensitive search.}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch O/p: open}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch 'ilike': [('name', 'ilike', 'open')] - Returns exact case insensitive (wildcards - '%open%') search.}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch O/p: Openerp, openerp, Opensource, opensource, Open, open, Odooopenerp, OdooOpenerp}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch 'not ilike': [('name', 'not ilike', 'open')] - Returns results not matched with exact case insensitive (wildcards - '%open%') search.}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch O/p: Odoo, odoo}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch '=ilike': [('name', '=ilike', 'open')] - Returns exact (= 'open' or 'Open') case insensitive search.}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch O/p: Open, open}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch '=?' is a short-circuit that makes the term TRUE if right is None or False, '=?' behaves like '=' in other cases}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch name = 'odoo' parent_id = False [('name', 'like', name), ('parent_id', '=?', parent_id)] - Returns name domain result & True}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch name = 'odoo' parent_id = 'openerp' [('name', 'like', name), ('parent_id', '=?', parent_id)] - Returns name domain result & parent_id domain result}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch 'in': [('value1', 'in', ['value1', 'value2'])] - in operator will check the value1 is present or not in list of right term}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch 'not in': [('value1', 'not in', ['value2'])] - not in operator will check the value1 is not present in list of right term While these 'in' and 'not in' works with list/tuple of values, the latter '=' and '!=' works with string}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch '=': value = 10 [('value','=',value)] - term left side has 10 in db and term right our value 10 will match}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch '!=': value = 15 [('value','!=',value)] - term left side has 10 in db and term right our value 10 will not match}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch 'child_of': parent_id = '1' #Agrolait 'child_of': [('partner_id', 'child_of', parent_id)] - return left and right list of partner_id for given parent_id}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch checks child-parent relationaship}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch '<=', '<', '>', '>=': These operators are largely used in openerp for comparing dates - [('date', '>=', date_begin), ('date', '<=', date_end)]. You can use these operators to compare int or float also.}{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s37\sl240\slmult1\itap0{\s37\f2\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch \line }{\s37\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f2\fs24\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s32\sl240\slmult1\itap0{\s32\f0\fs24\lang0{\*\listtag0}\par}}
