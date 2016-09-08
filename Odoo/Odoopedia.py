@@ -1,78 +1,95 @@
-_________________________________________________________________________________________________________
+
+nolabel='1' Doesnt display the field name (object name which will be shown by default
+
+___________________________________________________________________________________
 
 __________________________________________ORM Methods and User Defined Methods___________________________
 
-def create(self, cr, uid, vals, context=None):
-    	# Vlas is a dictionary containing all the variable of the current object 
-        print vals['name']
-        print vals['active']
-        # Print Id
-        k=super(skillset, self).create(cr, uid, vals, context=None)
-        print k
-        # Must return
-        return k   
 self =The first argument of every class method, including __init__, is always a reference to the current instance of the class. By convention, this argument is always named self. In the __init__ method, self refers to the newly created object; in other class methods, it refers to the instance whose method was called
 Context: is a dictionary which contains some information like: user language, company, timezone, etc by default. You can pass any kind of data/information in context as per your need either from xml or from py (mehtods) and then based on that extra information you can write your process code.
 
 Domain: is a condition(s) which is used to filter your data or for searching
 
+def create(self, cr, uid, vals, context=None):
+    	# vals is a dictionary containing all the variable of the current object 
+        print vals['name'] # name is the field name
+        print vals['active'] # active is the  field name
+        # Print Id of record
+        k=super(skillset, self).create(cr, uid, vals, context=None) # skillset is the name of class 
+        print k # the super method is called to override the vreate method
+        # Must return
+        return k 
+
 def write(self, cr, uid, ids,vals,context=None):
-        # name is a dictionary containing  the updated variable of the current object
+        # vals is a dictionary  only containing  the updated variable of the current object
+        # The current id of the record
         print vals
-        vals['name']='PYTHON'
+        vals['name']='PYTHON' # update the value of the variable
         # Returns the id of the uodate recored which is equal to ids
-        return super(skillset, self).write(cr, uid, ids,vals, context=None)
+        return super(skillset, self).write(cr, uid, ids,vals, context=None)# skillset is the name of class 
  
-vals :the dictionary name only conatain the variable values that get updated
-ids : The current id of the record
-
-
-
-
-
 def user_defined_method(self, cr, uid, ids, context=None):
-    ids ==current record id
+    # ids The current id of the record
 
 def onchange_user_id(self, cr, uid, ids, user_id, context=None):
-            
-            return {'value': {'parent_id': f,'department':d}}
+     # This method is called on changing the user_id field value
+     # user_id is the changed field      
+    return {'value': {'parent_id': f,'department':d}}
 
-            where the parent_id and department are the felds defined in the object
-            and f and d are the variables
+    where the parent_id and department are the felds defined in the object
+    and f and d are the variables
 
-user_id is the changed field
+        
+  <field name="user_id" placeholder="Task summary..." class="oe_inline" on_change="onchange_user_id(user_id)" />
+
 
 context['active_id'] =Gives the id of the current record
 
 
 
-Method calling in different classes:
-
-class A(object):
-    
-    @instance method
-    def a1(self):
-        """ This is an instance method. """
-        print "Hello from an instance of A"
-
-    @classmethod
-    def a2(cls):
-        """ This a classmethod. """
-        print "Hello from class A"
-
-class B(object):
-    def b1(self):
-        # Calling instance method
-        print A().a1() # => prints 'Hello from an instance of A'
-       
-        # calling classmethod
-        print A.a2() # => 'Hello from class A'
-
-
-
 Calling Function
-    return company_id
 self.get_company_id_apply_leave_policy(cr,uid,ids,context=None) 
+
+Search & Browse
+
+model = self.pool.get(MODEL) # model name
+ids = model.search(cr, uid, DOMAIN, context=context) # ids of record satisfying the domain criteria
+for rec in model.browse(cr, uid, ids, context=context): # record set
+    print rec.name # recordest field
+    model.write(cr, uid, ids, VALUES, context=context) # update the field of model
+
+    may also be written as::
+
+env = Env(cr, uid, context)         # cr, uid, context wrapped in env
+recs = env[MODEL]                   # retrieve an instance of MODEL
+recs = recs.search(DOMAIN)          # search returns a recordset
+for rec in recs:                    # iterate over the records
+    print rec.name
+recs.write(VALUES)                  # update all records in recs
+
+
+
+
+
+# hr.employee model Object 
+employee_obj=self.pool.get('hr.employee')
+#list of ids who match the criteria
+employee_obj_id=employee_obj.search(cr,uid,[('name_related','=',"Shivam Mahajan")])
+#i=self.search(cr,uid,[]) # all records because there is no domain
+#Record Set matching the criteria
+e=employee_obj.browse(cr,uid,employee_obj_id,context=None)
+# ID of the record
+print e.id
+# The field name of the recordset
+print e.name_related
+# The name of the manager
+print e.parent_id.name_related
+#The name of the Super Manager
+print e.parent_id.parent_id.name_related
+
+
+
+def _get_nbr_employees(self, cr, uid, ids, name, args, context=None): # functional field
 _________________________________________________________________________________________________________
 
 _________________________________________Wizard__________________________________________________________
@@ -83,7 +100,7 @@ _________________________________________Wizard_________________________________
 Calling A Wizard 
 
         <button string="Details" name="%(skillset.action_skillset_intro)d" type="action" />
-skillset :Class Name
+skillset :Module name
 action_skillset_intro :action+action_name
 
 Wizrd Window
@@ -97,53 +114,7 @@ Wizrd Window
             <field name="target">new</field>
         </record>
 
-_________________________________________________________________________________________________________
-
-_________________________________________Search & Browse________________________________________________
-
-            model = self.pool.get(MODEL)
-            ids = model.search(cr, uid, DOMAIN, context=context)
-            for rec in model.browse(cr, uid, ids, context=context):
-                print rec.name
-            model.write(cr, uid, ids, VALUES, context=context)
-
-    may also be written as::
-
-            env = Env(cr, uid, context)         # cr, uid, context wrapped in env
-            recs = env[MODEL]                   # retrieve an instance of MODEL
-            recs = recs.search(DOMAIN)          # search returns a recordset
-            for rec in recs:                    # iterate over the records
-                print rec.name
-            recs.write(VALUES)                  # update all records in recs
-
-
-        i=self.search(cr,uid,[])
-        for j in i :
-            print self.browse(cr,uid,j,context=None)
-            print self.browse(cr,uid,j,context=None).id
-
-        # hr.employee model Object 
-        employee_obj=self.pool.get('hr.employee')
-        
-        #list of ids who match the criteria
-        employee_obj_id=employee_obj.search(cr,uid,[('name_related','=',"Shivam Mahajan")])
-        
-        #Record Set matching the criteria
-        e=employee_obj.browse(cr,uid,employee_obj_id,context=None)
-        
-        # ID of the record
-        print e.id
-
-        # The field name of the recordset
-        print e.name_related
-        
-        # The name of the manager
-        print e.parent_id.name_related
-        
-        #The name of the Super Manager
-        print e.parent_id.parent_id.name_related
-
-      
+     
 _________________________________________________________________________________________________________
 
 _________________________________________View Inheritance________________________________________________
@@ -211,7 +182,7 @@ For a many2many field, a list of tuples is expected. Here is the list of tuple t
 
 ________________________________________________________________________________________________________
 
-_____________________one2many field for th etree view in form view like a page in notebook_______________
+_____________________one2many field for the tree view in form view like a page in notebook_______________
 
 
 class res_company(osv.osv):
@@ -260,93 +231,7 @@ base.group_user
 _________________________________________________________________________________________________________
 _________________________Disable the Create and Edit button in the created form__________________________
  
- <form string="Leave Request" create="false" edit="false">
-
-
-
-_________________________________________________________________________________________________________
-_________________________________________Record Rules For Objects________________________________________
- 
-
-
-Record Rules For Objects
-
-Record rules determine who can access the objects, depending on the rules set for the particular object. A record rule has some tests to be performed on objects.
-
-You can manage four access modes on objects independently, depending on the test:
-
-        Read access : can read the data in the object,
-
-        Create access : can create a new record in the object,
-
-        Write access : can modify the contents of records in the object,
-
-        Delete access : can delete records from the object.
-
-To configure a rule on an object, use the menu Administration ‣ Security ‣ Record Rules. The fields in the ir.rule object describe:
-
-        Object : Object on which to have the rule
-
-        Name : Name of the rule
-
-        Global : If global is checked, then that rule would be applied for all the groups; and if it is unchecked, then that rule would be applied only for the groups selected for it
-
-        Domain : A list of all the tests for the object. It is specified through a Python expression as a list of tuples.
-
-                If there are multiple tests on same object, then all of them are joined using AND operator, and depending on the result the rule would be satisfied
-
-                If there are multiple rules on same object, then all of them are joined using OR operator
-
-        Access Modes : Read, Write, Create, Delete as described earlier
-
-                    If only one access mode is checked, then only that mode would be applied
-
-                    If all of them are checked, then all the access modes would be applied
-
-            But at least one access mode has to be checked, all of them cannot be unchecked. If all of them are unchecked, it would raise an exception.
-
-For example : We can have a rule defined on res.partner object, which tests if the user is the dedicated salesman of the partner [('user_id', '=', user.id)]. We check only the create and write access modes and keep other access modes unchecked.
-
-This would mean that a user in the group for which the rule is applied can only create/write records where he himself serves as the dedicated salesman, and cannot create/write records where he is not the dedicated salesman. As other access modes are unchecked, the user can read/delete the records of partners where he is not the dedicated salesm
-
-
-It should be [('user_ids', '=' , user.id)]
-
-    Each tuple in the search domain needs to have 3 elements, in the form: ('field_name', 'operator', value), where:
-
-    field_name must be a valid name of field of the object model, possibly following many-to-one relationships using dot-notation, e.g 'street' or 'partner_id.country' are valid values.
-
-    operator must be a string with a valid comparison operator from this list: =, !=, >, >=, <, <=, like, ilike, in, not in, child_of, parent_left, parent_right The semantics of most of these operators are obvious. The child_of operator will look for records who are children or grand-children of a given record, according to the semantics of this model (i.e following the relationship field named by self._parent_name, by default parent_id.
-
-    value must be a valid value to compare with the values of field_name, depending on its type
-
-
-    
-
-Your domain syntax is wrong.
-
-It should be [('user_ids', '=' , user.id)]
-
-
-user =uid the id of the curent user
-
-    Each tuple in the search domain needs to have 3 elements, in the form: ('field_name', 'operator', value), where:
-
-    field_name must be a valid name of field of the object model, possibly following many-to-one relationships using dot-notation, e.g 'street' or 'partner_id.country' are valid values.
-
-    operator must be a string with a valid comparison operator from this list: =, !=, >, >=, <, <=, like, ilike, in, not in, child_of, parent_left, parent_right The semantics of most of these operators are obvious. The child_of operator will look for records who are children or grand-children of a given record, according to the semantics of this model (i.e following the relationship field named by self._parent_name, by default parent_id.
-
-    value must be a valid value to compare with the values of field_name, depending on its type.
-
-Domain criteria can be combined using 3 logical operators than can be added between tuples: '&' (logical AND, default), '|' (logical OR), '!' (logical NOT). These are prefix operators and the arity of the '&' and '|' operator is 2, while the arity of the '!' is just 1. Be very careful about this when you combine them the first time.
-
-Here is an example of searching for Partners named ABC from Belgium and Germany whose language is not english ::
-
-[('name','=','ABC'),'!',('language.code','=','en_US'),'|',('country_id.code','=','be'),('country_id.code','=','de')]
-
-The '&' is omitted as it is the default, and of course we could have used '!=' for the language, but what this domain really represents is::
-
-(name is 'ABC' AND (language is NOT english) AND (country is Belgium OR Germany))
+ <form string="Leave Request" create="false" edit="false" delete="false">
 
 
 
@@ -375,7 +260,7 @@ _defaults = {
     'value': _default_get,
 }
 
-Note :The value of functional field doesn't get saved in database .
+# Note :The value of functional field doesn't get saved in database .
 
 
 
@@ -541,61 +426,12 @@ a<<<<<<<<<<<<--------------b
 
   --------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------
-    
-The different "openerp model inheritance" mechanisms: what's the difference between them, and when should they be used ?
-
-    In OpenERP, there are 3 (4)ways to inherit from an existing model:
-
-        _inherit = 'model' (without any _name)  ( Need to add fields in the same module)
-        _inherit = 'model' (with a specified _name) (Need to add fields in  some other module )
-        _inherits = 'model' Polymorphic data using _inherits  _inherits = {'res.partner': 'partner_id'}
-
-   So what about our '_name' property
-
-    If the _name as the same value as the inherited class it will do a basic inheritance.
-    If you forget to add the _inherit you will redefine the model
-    If your class _inherit one model and you set a _name different it will create a new model in a new database table.
-    If your class inherit many model you have to set _name if your override an existing model this way you may have some trouble, it should be avoided. It is better to use this to create new classes that inherit from abstract model.
-
-
-    What's the difference between them and, therefore, how to use them properly ?
-
-
-In OpenERP we have many main type of inheritance:
-
-Classical using Python inheritance.
-
-It allows to add specific "generic" behavior to Model by inheriting classes that derive from orm.Model like geoModel that adds goegraphic support.
-
-class Myclass(GeoModel, AUtilsClass):
-
-Standard Using _inherit
-
-The main objective is to add new behaviors/extend existing models. For example you want to add a new field to an invoice and add a new method: `
-
-Multiple inheritance
- _name = must be used
- _inherit = ['model_1', 'model_2']
-
-
-
-It is important to notice that _inherit can be a string or a list. You can do _inherit = ['model_1', 'model_2']
-
-
-Polymorphic data using _inherits
-
- _inherits = {'res.partner': 'partner_id'} 
-
-When using _inherits you will do a kind of polymorphic model in the database way.
-
-This mean we create a model that gets the know how of a Model but adds aditional data/columns in a new database table. So when you create a user, all partner data is stored in res_partner table (and a partner is created) and all user related info is stored in res_users table.
-
-To do this we use a dict:The key corresponds to the base model and the value to the foreign key to the base model.
 
 
     
+    
 
-OpenERP has two kinds of security restrictions that can be assigned to a user group:
+
 
     Access Rights are CRUD yes/no flags (similar to Unix FS permissions), and allow per-model access control. They state whether members of this group may perform a Create, Read, Update, and Delete operation on any document of a certain document model (e.g. a project task). The default policy is DENY, so by default any operation will be refused if the user does not explicitly have the right to perform it via one of her groups' access rights.
     Record Rules are filters applied on CRUD operations, and allow per-document access-control, once access right are already granted. Users will only be able to perform an operation on a given document if the document matches at least one of the record rules. The default policy is ALLOW, so if no rule exists for a given model, all documents of that model may be accessed by users who have the necessary access rights.
@@ -622,98 +458,13 @@ Note: Have a look at the existing Record Rules to see what they're doing first, 
 
 
 
-<form string="NAMEOFFORM" create="false" edit="false" version="7.0">
+<form string="NAMEOFFORM" create="false" edit="false" version="7.0" delete="false">
  This way "Edit" and "Create" are removed from view for all Users.
 
 
 
-How to remove delete icon in one2many tree view
-
-<tree string="My Tree" delete="false">
-npm install -g localtunnel
-
-lt --port 8000
-
- def name_get(self, cr, uid, ids, context=None):
-    Returns a textual representation for the records in self. By default this is the value of the display_name field.
-Returns:    list of pairs (id, text_repr) for each records
-Return Type:    list(tuple)
 
 
- Odoo/OpenERP : _rec_name and name_get()
-_rec_name = ‘name’ (by default) 
-
-where ‘name’ is field of the model. If ‘name’ field is not there then you have to assign any other filed name to this ‘_rec_name’ variable from columns.
-
-Note : If ‘name’ field is there in your columns then there is no need to specify '_rec_name'.
-
-Let’s try to dig more using an example.
-
-Case I:
-
-If you are having hr.employee module with name field and you are using it as reference in other module, say hr.employee.detail to provide other employee details then you will use it as:
-
-'employee_id' : fields.many2one('hr.employee', 'Employee')
-
-and it will show you the employee name in selection list.
-
-But, In a company, more than one employee can share the same name. So name field can’t be used to differentiate them from each other. But, employee code will be unique for each employee. In such cases, we will take a column field like ‘emp_code’ and will assign it to ‘_rec_name’
-
-_rec_name = ‘emp_code’
-
-So that it can show employee code in dropdown instead of employee name.
-
-Note : In both above cases 'id' will only be store in database. If will affect only the display part.
-
-Case II: 
-
-In same above example if your manager asks you to show combination of both i.e Employee Name, Employee Code what you will do?
-
-In this case we will override name_get() method in hr.employee module
-
-
-and it will display combination of both in drop-down.
-
-  def name_get(self, cr, uid, ids, context=None):
-        if not ids:
-            return []
-        reads = self.read(cr, uid, ids, ['name','emp_code'], context=context)
-        res = []
-        for record in reads:
-            name = record['name']
-            if record['emp_code']:
-                name = record['emp_code'][1]+' / '+name
-            res.append((record['id'], name))
-        return res
-
-The name_get method is used to display value of a record in a many2one field.
-There is no special field to display the result of name_get. If you need to put the result of name_get method in a field of a record, you should create with an attribute 'compute' :
-
-class Shivam(osv.osv):
-    def name_get(self, cr, uid, ids, context=None):
-        if not ids:
-            return []
-        reads = self.read(cr, uid, ids, ['name','parent_id'], context=context)
-        res = []
-        for record in reads:
-            name = record['name']
-            if record['parent_id']:
-                name = record['parent_id'][1]+' / '+name
-            res.append((record['id'], name))
-        return res
-
-    def _name_get_fnc(self, cr, uid, ids, prop, unknow_none, context=None):
-        res = self.name_get(cr, uid, ids, context=context)
-        return dict(res)
-    
-    _name='shivam.mahajan'
-    _columns={
-    'name': fields.char("Technology", required=True),
-    'complete_name': fields.function(_name_get_fnc, type="char", string='Name'), # if you want u can show it in too
-    'parent_id': fields.many2one('shivam.mahajan', 'Parent Technology', select=True), # By default
-
-
-    }
 
 
 
@@ -829,11 +580,142 @@ delete the records in the one2many fields when the original record that had them
 
         
 
-nolabel='1' Doesnt display the field name (object name which will be shown by default
-widget="radio" 
 
-Four Basic Operations in Odoo w.r.t Database:
-1.Select :read  (Existing record)  : Tree View --Tree,form View
-2.Update :write  (Edit )default by Odoo (Existing record)
-3.Insert :create (New Records) ---- Form View
-4.Delete :unlink   (Delete)default by Odoo (Existing record)
+
+
+
+
+        
+record.birthday <type 'str'>
+till_datetime = datetime.strptime(record.birthday,"%Y-%m-%d")  # for date efield
+1984-09-15 00:00:00 <type 'datetime.datetime'> 
+interview_deadline = datetime.strptime(interview.deadline_2,"%Y-%m-%d %H:%M:%S") # for datetime field
+The format to be passed in th strptime function based on date or datetime field
+till_datetime = till_datetime.strftime("%Y-%m-%d 23:59:59")
+984-09-15 23:59:59 <type 'str'>
+
+
+    <menuitem
+sequence="1" 
+groups="base.group_no_one"
+action="open_view_categ_form" 
+id="menu_view_employee_category_form"
+parent="hr.menu_hr_configuration"/>
+
+uid
+active_id
+False
+True
+nolabel='1' Doesnt display the field name (object name which will be shown by default
+default_order="id desc"  Sorting in view.xml
+_order = "priority desc, sequence, date_start, name, id"  in python file.by default asc order 
+
+<field name="limit">5</field>  in your action (XML file).
+
+<field name="standard_id" operator="child_of" />
+Using operator in search view
+Using 'Child_of' operator In 'Parent-Child Relationship
+
+Priority:
+<field name="priority" eval="15"/>
+
+attrs="{'readonly':[('stage_id','!=', 9)]}"
+
+'priority': fields.selection([('0','Low'), ('1','Normal'), ('2','High')], 'Priority', select=True),
+'0' '1' '2' are unicode characters not the integer
+So intialize in the form
+    vals['priority']='3'
+   
+Default sequence for menuitem is 10 .
+They are sorted on the basis of their id created
+______________________________________________________________________________________________________________________________________
+   Differenece between  __init__() and init() 
+    def __init__(self, cr, uid, name, context):
+        super(account_analytic_balance, self).__init__(cr, uid, name, context=context)
+        self.localcontext.update( {
+            'time': time,
+            'get_objects': self._get_objects,  # Method
+            })
+
+A constructor is a special kind of method that Python calls when it instantiates an object using the definitions found in your class
+MyInstance = MyClass()
+
+ Python relies on the constructor to perform tasks such as initializing (assigning values to) any instance variables that the object will need when it starts. Constructors can also verify that there are enough resources for the object and perform any other start-up task you can think of.
+
+The name of a constructor is always the same, __init__(). The constructor can accept arguments when necessary to create the object. When you create a class without a constructor, Python automatically creates a default constructor for you that doesn’t do anything. Every class must have a constructor, even if it simply relies on the default constructor. 
+
+
+def init(self, cr):
+
+
+You can create a method init(self, cr) in your model and it will be called upon module installation or upgrade. 
+You can check for update on install mode by checking the existence of data or structures that should have 
+been created in initialization or you can just use common sql or replace mechanism to use the same sql for both states.
+
+Most reports use this method to create required views
+
+
+______________________________________________________________________________________________________________________________________
+
+Method Overloading :
+There is no function overloading in Python, meaning that you cant have multiple functions with the same name but different arguments.
+Python supports overloading but in a Pythonic way. (using variable length arguments) *args
+
+______________________________________________________________________________________________________________________________________
+
+
+fields.property() 
+
+'property_stock_procurement': fields.property(
+        type='many2one',
+        relation='stock.location',
+        string="Procurement Location",
+        view_load=True,
+        domain=[('usage','like','procurement')],
+        help="This stock location will be used, instead of the default one, as the source location for stock moves generated by procurements."),
+        
+        
+       "The fields.property class inherits from fields.function and overrides the read and write method. 
+       The type of this field is many2one, so in the form a property is represented like a many2one function. 
+       But the value of a property is stored in the ir.property class/table as a complete record.
+     The stored value is a field of type reference (not many2one) because each property may point to a different object. " 
+     
+     
+     A property is a concept that is attached to an object and has special features:
+
+    Different value for the same property depending on the company
+
+    Rights management per field
+
+    It's a link between resources (many2one)
+
+So yes, it won't show in the database 'stock' table, but it will be in the ir_property table. 
+This allows for different properties for the same object depending on the users current company.
+There is some use cases where value of the field must change depending of the current company.
+
+To activate such behavior you can now use the company_dependent option.
+
+A notable evolution in new API is that “property fields” are now searchable.
+
+class res_partner(osv.osv):
+    _name = 'res.partner'
+    _inherit = 'res.partner'
+    _columns = {
+        'property_product_pricelist': fields.property(
+            type='many2one', 
+            relation='product.pricelist', 
+            domain=[('type','=','sale')],
+            string="Sale Pricelist", 
+            help="This pricelist will be used, instead of the default one, for sales to the current partner"),
+    }
+Name :property_product_pricelist
+Field :Sale Pricelist #Field Label 
+ Resource  :  Resource 
+ Value :product.pricelist,6  #Object Relation 
+ Type : Many2one
+ 
+ https://www.odoo.com/es_ES/forum/ayuda-1/question/beginner-question-about-functional-fields-and-property-fields-77398#answer_77401
+
+______________________________________________________________________________________________________________________________________
+
+

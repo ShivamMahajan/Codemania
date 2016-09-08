@@ -1,6 +1,6 @@
-sudo rm -r -f filename (Deleting s a file)
+sudo rm -rf filename (Deleting s a file)
 cp -a  /path/from  /path/to ( Copy a file)
-mv  fromPath/   toPath/ ( Moving a file)
+mv  fromPath/   toPath/ ( Moving a file) 
 
 sudo su ( Root user)
 sudo adduser --system --home=/opt/odoo --group odoo ( creating User)
@@ -12,10 +12,34 @@ sudo apt-get dist-upgrade  # Installs updates (new ones)
 
 
 sudo lsof -t -i:8069   (List all the pid running on the port)
-
+  or
+  ps aux | grep 'python csp_build.py'
+  
 kill pid (proces id)
 
 sudo chown -R yourusername:yourusername Pictures
+
+The chown command has the following syntax:
+
+chown username:groupname directory
+
+So in your example command it is your primary group name you need to put To determine your current user name issue the command as below on a terminal
+
+whoami
+
+This will return your current user name. Then issue this command to determine your group memberships
+
+groups username
+
+Assuming that your username is "alex", run:
+
+groups alex
+
+You will get something like:
+
+alex : alex staff adm cdrom lpadmin admin
+
+The first one after the : is your primary group. In this example it is "alex".
 
 
 SVN Commands :
@@ -66,5 +90,46 @@ psql odoo56
 
 tail -f /var/log/odoo/openerp-server.log
 
+Running service in background
+
+ nohup ./manage.py runserver &
 
 
+MAking a file executable :
+chmod +x manage.py
+
+Viwing the permission and the ownership of file
+ls -la /path/to/file
+
+-rw-rw-rw- 1 htp htp 93 Aug 24 06:40 ipn.txt
+ where htp is user
+
+What does this mean ?
+
+First - represents a regular file. It gives you a hint of the type of object it is. It can have following values.
+
+    d (directory)
+    c (character device)
+    l (symlink)
+    p (named pipe)
+    s (socket)
+    b (block device)
+    D (door)
+    - (regular file)
+
+
+r represents read permission.
+w represents write permission and
+x represents executable permission.
+
+First combination of rwx represents permission for the owner .
+Second combination of rwx represents permission for the group .
+Third combination of rwx represents permission for the other of the file.
+
+first hrp is the user
+second htp is the group
+Renaming a file
+
+mv file_old_name file_new_name
+
+cd  ~/path (direct)

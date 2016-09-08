@@ -1,0 +1,504 @@
+Using Python as a Calculator
+
+division always returns a floating point number  ( Python 3.0)
+(Note Python 2.7 :Integer)
+
+Division (/) always returns a float. To do floor division and get an integer result (discarding any fractional result) you can use the // operator; to calculate the remainder you can use %:
+ 
+** operator to calculate powers
+
+There is full support for floating point; operators with mixed type operands convert the integer operand to floating point:
+
+In interactive mode, the last printed expression is assigned to the variable _. This means that when you are using Python as a desk calculator, it is somewhat easier to continue calculations, for example
+10/2 (gives 5)
+_+8 (gives 13) _ will be replaced by last result i.e 5
+
+round(_, 2)
+
+This variable should be treated as read-only by the user. Don’t explicitly assign a value to it otherwise you goona miss the magical behaviour of this variable— you would create an independent local variable with the same name masking the built-in variable with its magic behavior.
+
+Strings
+
+ They can be enclosed in single quotes ('...') or double quotes ("...") with the same result [2]. \ can be used to escape quotes(backslashes):
+
+  \ (before comma) \'  \ "
+The string is enclosed in double quotes if the string contains a single quote and no double quotes, otherwise it is enclosed in single quotes.
+
+
+The print() function produces a more readable output, by omitting the enclosing quotes and by printing escaped and special characters:
+
+\n means newline
+
+If you don’t want characters prefaced by \ to be interpreted as special characters, you can use raw strings by adding an r before the first quote:
+
+print(r'C:\some\name')  # note the r before the quote
+C:\some\name
+
+
+String literals can span multiple lines. One way is using triple-quotes: """...""" or '''...'''.
+ End of lines are automatically included in the string, but it’s possible to prevent this by adding a \ at the end of the line
+
+ 'a\nb\nc\nd'
+'abcd'
+
+Strings can be concatenated (glued together) with the + operator, and repeated with *:
+print  3*('Shivam'+'\t'+'Mahajan')
+Shivam	MahajanShivam	MahajanShivam	Mahajan
+
+Two or more string literals (i.e. the ones enclosed between quotes) next to each other are automatically concatenated.
+'Shivam''Mahajan'
+'ShivamMahajan'
+
+This only works with two literals though, not with variables or expressions:
+If you want to concatenate variables or a variable and a literal, use +:
+
+This feature is particularly useful when you want to break long strings:
+>>>
+
+>>> text = ('Put several strings within parentheses '
+...         'to have them joined together.')
+>>> text
+'Put several strings within parentheses to have them joined together.'
+
+Strings can be indexed (subscripted), with the first character having index 0. There is no separate character type; a character is simply a string of size one:
+>>>
+
+Indices may also be negative numbers, to start counting from the right:
+>>>
+
+>>> word[-1]  # last character
+Note that since -0 is the same as 0, negative indices start from -1.
+
+In addition to indexing, slicing is also supported. While indexing is used to obtain individual characters, slicing allows you to obtain substring:
+
+word[0:2]  # characters from position 0 (included) to 2 (excluded)
+Note how the start is always included, and the end always excluded.
+
+This makes sure that s[:i] + s[i:] is always equal to s:where s is the complete string
+s[:i] # characters from position 0 (included) to i (excluded)
+s[i:]# characters from position i (included) to the end of string
+
+Slice indices have useful defaults; an omitted first index defaults to zero, an omitted second index defaults to the size of the string being sliced.
+>>>
+
+>>> word[:2]   # character from the beginning to position 2 (excluded)
+'Py'
+>>> word[4:]   # characters from position 4 (included) to the end
+'on'
+>>> word[-2:]  # characters from the second-last (included) to the end
+'on'
+
+Attempting to use an index that is too large will result in an error:
+>>>
+
+>>> word[42]  # the word only has 6 characters
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+IndexError: string index out of range
+
+However, out of range slice indexes are handled gracefully when used for slicing:
+>>>
+
+>>> word[4:42]
+'on'
+>>> word[42:]
+''
+
+Python strings cannot be changed — they are immutable. Therefore, assigning to an indexed position in the string results in an error:
+
+The built-in function len() returns the length of a string:
+len(str)
+
+Lists
+compound data type
+a list of comma-separated values (items) between square brackets.
+ Lists might contain items of different types, but usually the items all have the same type.
+
+
+ Like strings (and all other built-in sequence type), lists can be indexed and sliced:
+
+>>> squares[0]  # indexing returns the first item
+1
+>>> squares[-1] #last item
+25
+>>> squares[-3:]  # slicing returns a new list from third last to last
+[9, 16, 25]
+
+All slice operations return a new list containing the requested elements. This means that the following slice returns a new (shallow) copy of the list:
+>>> squares[:]
+[1, 4, 9, 16, 25]
+ by default starts from 0 (first index ) and end at last element (the last index)
+
+ Lists also support operations like concatenation:
+
+ Unlike strings, which are immutable, lists are a mutable type, i.e. it is possible to change their content:
+ cubes[3] = 64  # replace the value at index
+ You can also add new items at the end of the list, by using the append() method 
+>>> cubes.append(216)  # adding new element in the list
+
+Assignment to slices is also possible, and this can even change the size of the list or clear it entirely:
+>>>
+
+>>> letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g']
+>>> letters
+['a', 'b', 'c', 'd', 'e', 'f', 'g']
+>>> # replace some values
+>>> letters[2:5] = ['C', 'D', 'E']
+>>> letters
+['a', 'b', 'C', 'D', 'E', 'f', 'g']
+>>> # now remove them
+>>> letters[2:5] = []
+>>> letters
+['a', 'b', 'f', 'g']
+>>> # clear the list by replacing all the elements with an empty list
+>>> letters[:] = []
+>>> letters
+[]
+
+The built-in function len() also applies to lists:
+>>>
+
+>>> letters = ['a', 'b', 'c', 'd']
+>>> len(letters)
+4
+
+It is possible to nest lists (create lists containing other lists), 
+x=[['a', 'b', 'c'], [1, 2, 3]]
+x[0][1]
+'b'
+
+Print
+The keyword argument end can be used to avoid the newline after the output, or end the output with a different string:
+
+ print(b, end=',')
+ print('The value of i is', i)
+
+ Since ** has higher precedence than -, -3**2 will be interpreted as -(3**2) and thus result in -9. To avoid this and get 9, you can use (-3)**2.
+
+ Control Flow Tools
+
+ x = int(input("Please enter an integer: "))
+
+ Control Flow Tools :
+
+ 1.if Statements 
+ if :
+ elif :
+ elif :
+ else :
+
+ There can be zero or more elif parts, and the else part is optional .
+ In many ways the object returned by range() behaves as if it is a list, but in fact it isn’t. It is an object which returns the successive items of the desired sequence when you iterate over it, but it doesn’t really make the list, thus saving space.
+
+ list() 
+2. for Statements :
+Rather than always iterating over an arithmetic progression of numbers (like in Pascal), or giving the user the ability to define both the iteration step and halting condition (as C), Python’s for statement iterates over the items of any sequence (a list or a string), in the order that they appear in the sequence
+
+ The range() Function :
+
+ If you do need to iterate over a sequence of numbers, the built-in function range() comes in handy
+ for i in range(5):
+...     print(i)
+0 1 2 3 4
+
+ It is possible to let the range start at another number, or to specify a different increment (even negative; sometimes this is called the ‘step’):
+
+range(5, 10)
+   5 through 9
+
+range(0, 10, 3)
+   0, 3, 6, 9
+
+range(-10, -100, -30)
+  -10, -40, -70
+  print(range(10))
+range(0, 10)
+
+In many ways the object returned by range() behaves as if it is a list, but in fact it isn’t. It is an object which returns the successive items of the desired sequence when you iterate over it, but it doesn’t really make the list, thus saving space.
+
+Type casting to list :
+list()
+
+We have seen that the for statement is such an iterator. The function list() is another;
+it creates lists from iterables:
+>>> list(range(5))
+[0, 1, 2, 3, 4]
+
+break and continue Statements, and else Clauses on Loops¶
+
+The break statement, like in C, breaks out of the smallest enclosing for or while loop.
+
+Loop statements may have an else clause; it is executed when the loop terminates through exhaustion of the list (with for) or when the condition becomes false (with while), but not when the loop is terminated by a break statement.
+
+
+The continue statement, also borrowed from C, continues with the next iteration of the loop:
+
+pass Statements
+
+The pass statement does nothing. It can be used when a statement is required syntactically but the program requires no action. For example:
+>>>
+
+>>> while True:
+...     pass  # Busy-wait for keyboard interrupt (Ctrl+C)
+
+
+Another place pass can be used is as a place-holder for a function or conditional body when you are working on new code, allowing you to keep thinking at a more abstract level. The pass is silently ignored:
+>>>
+
+>>> def initlog(*args):
+...     pass   # Remember to implement this!
+
+
+ Defining Functions¶
+
+ The keyword def introduces a function definition. It must be followed by the function name and the parenthesized list of formal parameters.
+
+ The first statement of the function body can optionally be a string literal; this string literal is the function’s documentation string, or docstring which let the user interactively browse through code;
+
+ The execution of a function introduces a new symbol table used for the local variables of the function. 
+
+ all variable assignments in a function store the value in the local symbol table; whereas variable references first look in the local symbol table, then in the local symbol tables of enclosing functions, then in the global symbol table, and finally in the table of built-in names. Thus, global variables cannot be directly assigned a value within a function (unless named in a global statement), although they may be referenced.
+
+ The actual parameters (arguments) to a function call are introduced in the local symbol table of the called function when it is called; thus, arguments are passed using call by value (where the value is always an object reference, not the value of the object). [1] When a function calls another function, a new local symbol table is created for that call.
+
+ A function definition introduces the function name in the current symbol table. The value of the function name has a type that is recognized by the interpreter as a user-defined function. This value can be assigned to another name which can then also be used as a function. This serves as a general renaming mechanism:
+>>>
+
+>>> fib
+<function fib at 10042ed0>
+>>> f = fib
+>>> f(100)
+0 1 1 2 3 5 8 13 21 34 55 89
+
+Default return type of every function is None .
+>>> print(fib(0))
+None
+
+
+Variable length Arguments :
+
+
+It is also possible to define functions with a variable number of arguments. There are three forms, which can be combined.
+4.7.1. Default Argument Values¶
+
+The most useful form is to specify a default value for one or more arguments. This creates a function that can be called with fewer arguments than it is defined to allow. For example:
+
+def ask_ok(prompt, retries=4, reminder='Please try again!'):
+
+This function can be called in several ways:
+
+    giving only the mandatory argument: ask_ok('Do you really want to quit?')
+    giving one of the optional arguments: ask_ok('OK to overwrite the file?', 2)
+    or even giving all arguments: ask_ok('OK to overwrite the file?', 2, 'Come on, only yes or no!')
+
+The default values are evaluated at the point of function definition in the defining scope, so that
+
+i = 5
+
+def f(arg=i):
+    print(arg)
+
+i = 6
+f()
+
+will print 5.
+
+Important warning: The default value is evaluated only once. This makes a difference when the default is a mutable object such as a list, dictionary, or instances of most classes
+
+def f(a, L=[]):
+    L.append(a)
+    return L
+
+print(f(1))
+print(f(2))
+print(f(3))
+
+This will print
+
+[1]
+[1, 2]
+[1, 2, 3]
+
+If you don’t want the default to be shared between subsequent calls, you can write the function like this instead:
+
+def f(a, L=None):
+    if L is None:
+        L = []
+    L.append(a)
+    return L
+
+Keyword Arguments
+
+Functions can also be called using keyword arguments of the form kwarg=value. 
+def parrot(voltage, state='a stiff', action='voom', type='Norwegian Blue'):
+
+parrot(action='VOOOOOM', voltage=1000000)             # 2 keyword arguments
+parrot('a million', 'bereft of life', 'jump')         # 3 positional arguments
+parrot('a thousand', state='pushing up the daisies')  # 1 positional, 1 keyword
+
+In a function call, keyword arguments must follow positional arguments. All the keyword arguments passed must match one of the arguments accepted by the function (e.g. actor is not a valid argument for the parrot function), and their order is not important. 
+
+def cheeseshop(kind, *arguments, **keywords):
+
+
+
+kind =manadatory arguments
+*arguments = Variable length arguments
+**kwarg ==Variable lenght arguments
+
+
+def cheeseshop(kind, *arguments, **keywords):
+
+cheeseshop("Limburger", "It's very runny, sir.",
+           "It's really very, VERY runny, sir.",
+           shopkeeper="Michael Palin",
+           client="John Cleese",
+           sketch="Cheese Shop Sketch")
+
+kind =Limburger
+
+*arguments =
+It's very runny, sir.
+It's really very, VERY runny, sir.
+
+**kwarg ==
+client : John Cleese
+shopkeeper : Michael Palin
+sketch : Cheese Shop Sketch
+
+4.7.5. Lambda Expressions
+
+Small anonymous functions can be created with the lambda keyword. This function returns the sum of its two arguments: lambda a, b: a+b. Lambda functions can be used wherever function objects are required. They are syntactically restricted to a single expression
+
+ Another use is to pass a small function as an argument:
+
+ lambda a, b: a+b
+
+ The value passed =The value Return
+
+
+ PEP 8 :
+
+ Use 4-space indentation, and no tabs.
+ Wrap lines so that they don’t exceed 79 characters.
+ Use blank lines to separate functions and classes, and larger blocks of code inside functions.
+When possible, put comments on a line of their own.
+Use docstrings.
+Use spaces around operators and after commas, but not directly inside bracketing constructs: a = f(1, 2) + g(3, 4).
+Name your classes and functions consistently; the convention is to use CamelCase for classes and lower_case_with_underscores for functions and methods. Always use self as the name for the first method argument 
+Don’t use fancy encodings if your code is meant to be used in international environments. Python’s default, UTF-8, or even plain ASCII work best in any case.
+
+Likewise, don’t use non-ASCII characters in identifiers if there is only the slightest chance people speaking a different language will read or maintain the code.
+
+
+Actually, call by object reference would be a better description, since if a mutable object is passed, the caller will see any changes the callee makes to it (items inserted into a list
+
+
+Documentation Strings
+
+>> def my_function():
+...     """Do nothing, but document it.
+...
+...     No, really, it doesn't do anything.
+...     """
+...     pass
+...
+>>> print(my_function.__doc__)
+
+Here are some conventions about the content and formatting of documentation strings.
+
+The first line should always be a short, concise summary of the object’s purpose. For brevity, it should not explicitly state the object’s name or type, since these are available by other means (except if the name happens to be a verb describing a function’s operation). This line should begin with a capital letter and end with a period.
+
+If there are more lines in the documentation string, the second line should be blank, visually separating the summary from the rest of the description. The following lines should be one or more paragraphs describing the object’s calling conventions, its side effects, etc.
+
+    global x
+
+ 
+
+    print('x is', x)
+
+
+    Difference brtween input and raw_input ?
+Print formatting 
+
+
+i = 5
+def f(arg=i):
+    print(arg)
+i = 6
+f()
+
+
+easy to learn, powerful programming language.
+high-level data structures
+object-oriented programming
+dynamic typing, 
+interpreted nature,
+ language for scripting and rapid application development
+ Opensource
+
+
+ Invoking the python Interpreter in Terminal :
+
+ Type the command :  (By default 2.7.10)
+
+ python
+shivamm@http-189:/usr/local/bin$ python
+Python 2.7.10 (default, Oct 14 2015, 16:09:02) 
+[GCC 5.2.1 20151010] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 
+
+Specifie version :
+shivamm@http-189:/usr/local/bin$ python3.5
+Python 3.5.0+ (default, Oct 11 2015, 09:05:38) 
+[GCC 5.2.1 20151010] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+
+
+python --version
+The Python interpreter is usually installed as /usr/local/bin/python3.5
+
+Typing an end-of-file character (Control-D on Unix, Control-Z on Windows) at the primary prompt causes the interpreter to exit with a zero exit status. If that doesn’t work, you can exit the interpreter by typing the following command: quit().
+
+Data Structures
+
+Index out of range 
+Iterable value assignment
+
+
+a.pop(i)
+
+'list' object has no attribute 'clear'
+list.clear was added in Python 3.3.
+del a[:]. -removing the elemt with the index
+
+sort vs sorted  : same list /new list
+
+Shallow copy and deep copy
+
+struct_time = time.strptime("30 Nov 00", "%d %b %y")
+print "returned tuple: %s " % struct_time
+
+When we run above program, it produces following result:
+
+returned tuple: (2000, 11, 30, 0, 0, 0, 3, 335, -1)
+
+
+The method strptime() parses a string representing a time according to a format.
+
+Following is the syntax for strptime() method:
+
+time.strptime(string[, format])
+
+The method strftime() converts a tuple or struct_time representing a time as returned by gmtime() or localtime() to a string as specified by the format argument.
+
+time.strftime(format[, t])
+
+t = (2009, 2, 17, 17, 3, 38, 1, 48, 0)
+t = time.mktime(t)
+print time.strftime("%b %d %Y %H:%M:%S", time.gmtime(t))
+
+When we run above program, it produces following result:
+
+Feb 18 2009 00:03:38
